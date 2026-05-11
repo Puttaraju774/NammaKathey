@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF">
+
+    <!-- ILLUSTRATION AREA — top half, colored background -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#1B3A6B">
+
+        <!-- Large hero emoji centered -->
+        <TextView
+            android:layout_width="180dp"
+            android:layout_height="180dp"
+            android:layout_gravity="center"
+            android:background="@drawable/circle_hero_bg"
+            android:gravity="center"
+            android:text="🏛️"
+            android:textSize="80sp"/>
+
+        <!-- Chapter badge at bottom center -->
+        <TextView
+            android:id="@+id/tvChapter"
+            android:layout_width="wrap_content"
+            android:layout_height="36dp"
+            android:layout_gravity="bottom|center_horizontal"
+            android:layout_marginBottom="16dp"
+            android:text="Chapter 1"
+            android:textColor="#E8A020"
+            android:textSize="13sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:paddingStart="20dp"
+            android:paddingEnd="20dp"
+            android:background="@drawable/pill_chapter_bg"/>
+
+    </FrameLayout>
+
+    <!-- STORY TEXT AREA — bottom half, white/cream background -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#FFF8F0">
+
+        <TextView
+            android:id="@+id/tvStoryText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Story text..."
+            android:textColor="#1A1A2E"
+            android:textSize="18sp"
+            android:lineSpacingMultiplier="1.8"
+            android:padding="24dp"
+            android:fontFamily="sans-serif"/>
+
+    </ScrollView>
+
+</LinearLayout>

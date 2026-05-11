@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Colors -->
+    <color name="saffron">#E8A020</color>
+    <color name="saffron_light">#FFF3D6</color>
+    <color name="royal_blue">#1B3A6B</color>
+    <color name="royal_blue_light">#2E6DA4</color>
+    <color name="ivory">#FFF8E7</color>
+    <color name="maroon">#8B1A1A</color>
+
+    <!-- UI Colors -->
+    <color name="correct_green">#27AE60</color>
+    <color name="wrong_red">#C0392B</color>
+    <color name="option_default">#F0F4FA</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="bg_light">#F8F4EE</color>
+    <color name="text_primary">#1B3A6B</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_light">#AAAAAA</color>
+    <color name="divider">#E0E0E0</color>
+
+    <!-- Status bar -->
+    <color name="colorPrimary">#1B3A6B</color>
+    <color name="colorPrimaryDark">#1B3A6B</color>
+    <color name="colorAccent">#E8A020</color>
+
+    <!-- Badge gold -->
+    <color name="badge_gold">#F5C518</color>
+    <color name="badge_gold_dark">#D4A010</color>
+
+    <!-- Category colors -->
+    <color name="cat_warrior">#C0392B</color>
+    <color name="cat_queen">#8E44AD</color>
+    <color name="cat_king">#1B3A6B</color>
+    <color name="cat_saint">#27AE60</color>
+    <color name="cat_artist">#E67E22</color>
+    <color name="cat_military">#2C3E50</color>
+    <color name="cat_engineer">#2980B9</color>
+</resources>

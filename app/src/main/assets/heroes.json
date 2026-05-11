@@ -1,0 +1,1656 @@
+{
+  "districts": [
+    {
+      "id": "belagavi",
+      "name": "Belagavi",
+      "name_kn": "ಬೆಳಗಾವಿ",
+      "theme": "City of Palaces",
+      "image": "dist_belagavi",
+      "heroes": [
+        {
+          "id": "sangolli_rayanna",
+          "name": "Sangolli Rayanna",
+          "name_kn": "ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣ",
+          "era": "1798–1831",
+          "category": "Warrior",
+          "tagline": "The Fearless Warrior of Kittur",
+          "tagline_kn": "ಕಿತ್ತೂರಿನ ನಿರ್ಭೀತ ಯೋಧ",
+          "image": "hero_rayanna",
+          "story_pages_en": [
+            "Long ago in the village of Sangolli in Belagavi, a boy named Rayanna was born. Even as a child, he was the bravest of all. He could climb the tallest trees and swim the wildest rivers!",
+            "Rayanna grew up to serve Queen Kittur Chennamma with all his heart. He was her mightiest warrior and her most trusted commander. The people loved him like a hero from the old stories.",
+            "When the British soldiers came to take over Kittur, Rayanna fought back with fire in his eyes. Even when his army was small and the enemy was many, he never gave up!",
+            "He hid in the forests and fought like a lion — brave, fast, and free. He told his people — 'This land is ours. We will never bow to anyone!' His courage still lives in our hearts today."
+          ],
+          "story_pages_kn": [
+            "ಬಹಳ ಹಿಂದೆ ಬೆಳಗಾವಿಯ ಸಂಗೊಳ್ಳಿ ಗ್ರಾಮದಲ್ಲಿ ರಾಯಣ್ಣ ಎಂಬ ಬಾಲಕ ಜನಿಸಿದ. ಬಾಲ್ಯದಿಂದಲೇ ಆತ ಎಲ್ಲರಿಗಿಂತ ಧೈರ್ಯಶಾಲಿ. ಎತ್ತರದ ಮರ ಹತ್ತಲು, ನದಿ ಈಜಲು ಯಾರಿಗೂ ಭಯ ಇಲ್ಲ!",
+            "ರಾಯಣ್ಣ ಬೆಳೆದು ಕಿತ್ತೂರು ಚೆನ್ನಮ್ಮ ರಾಣಿಯ ಸೇನಾಪತಿಯಾದ. ಜನರು ಆತನನ್ನು ಪ್ರೀತಿಸುತ್ತಿದ್ದರು — ಪುರಾಣದ ವೀರನಂತೆ!",
+            "ಬ್ರಿಟಿಷರು ಕಿತ್ತೂರು ವಶಪಡಿಸಿಕೊಳ್ಳಲು ಬಂದಾಗ ರಾಯಣ್ಣ ಕಣ್ಣಲ್ಲಿ ಬೆಂಕಿ ಹೊತ್ತಿಸಿ ಹೋರಾಡಿದ. ಶತ್ರು ಎಷ್ಟೇ ಹೆಚ್ಚಿದ್ದರೂ ಶರಣಾಗಲಿಲ್ಲ!",
+            "ಅವನು ಕಾಡಿನಲ್ಲಿ ಸಿಂಹದಂತೆ ಹೋರಾಡಿದ. 'ಈ ನೆಲ ನಮ್ಮದು, ಯಾರಿಗೂ ತಲೆ ಬಾಗಲ್ಲ!' ಎಂದ ಆ ಧೀರನ ಧೈರ್ಯ ಇಂದಿಗೂ ನಮ್ಮ ಹೃದಯದಲ್ಲಿ ಜೀವಂತ."
+          ],
+          "quiz": [
+            {
+              "q_en": "Which district was Sangolli Rayanna from?",
+              "q_kn": "ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣ ಯಾವ ಜಿಲ್ಲೆಯವರು?",
+              "options_en": ["Belagavi", "Mysuru", "Mangaluru", "Dharwad"],
+              "options_kn": ["ಬೆಳಗಾವಿ", "ಮೈಸೂರು", "ಮಂಗಳೂರು", "ಧಾರವಾಡ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "Who was Sangolli Rayanna's queen?",
+              "q_kn": "ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣರ ರಾಣಿ ಯಾರು?",
+              "options_en": ["Kittur Chennamma", "Rani Lakshmibai", "Abbakka", "Keladi Chennamma"],
+              "options_kn": ["ಕಿತ್ತೂರು ಚೆನ್ನಮ್ಮ", "ರಾಣಿ ಲಕ್ಷ್ಮೀಬಾಯಿ", "ಅಬ್ಬಕ್ಕ", "ಕೆಳದಿ ಚೆನ್ನಮ್ಮ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "Who did Sangolli Rayanna fight against?",
+              "q_kn": "ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣ ಯಾರ ವಿರುದ್ಧ ಹೋರಾಡಿದರು?",
+              "options_en": ["The British", "The Mughals", "The Marathas", "The Nizam"],
+              "options_kn": ["ಬ್ರಿಟಿಷರು", "ಮೊಘಲರು", "ಮರಾಠರು", "ನಿಜಾಮರು"],
+              "correct_index": 0
+            }
+          ],
+          "statue": {
+            "name": "Sangolli Rayanna Statue",
+            "address": "Kittur Fort, Belagavi District, Karnataka",
+            "distance": "~350 km from Bengaluru"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mysuru",
+      "name": "Mysuru",
+      "name_kn": "ಮೈಸೂರು",
+      "theme": "City of Palaces",
+      "image": "dist_mysuru",
+      "heroes": [
+        {
+          "id": "tipu_sultan",
+          "name": "Tipu Sultan",
+          "name_kn": "ಟಿಪ್ಪು ಸುಲ್ತಾನ್",
+          "era": "1750–1799",
+          "category": "Warrior",
+          "tagline": "The Tiger of Mysore",
+          "tagline_kn": "ಮೈಸೂರು ಹುಲಿ",
+          "image": "hero_tipu",
+          "story_pages_en": [
+            "Tipu Sultan was called the Tiger of Mysore — and he truly was! He ruled the Kingdom of Mysore with great wisdom and was loved by his people for his fairness and kindness.",
+            "Tipu Sultan was one of the first rulers in India to fight the British with rockets and guns. He invented the iron-cased rocket — the first of its kind in the world! His army was the most advanced in India.",
+            "He fought four great wars against the British. Even when the odds were against him, he refused to make peace through surrender. His famous words were — 'Better to live one day as a tiger than a thousand years as a sheep!'",
+            "He fell fighting bravely at the Battle of Seringapatam in 1799. His courage inspired freedom fighters for generations. The Tiger of Mysore will never be forgotten!"
+          ],
+          "story_pages_kn": [
+            "ಟಿಪ್ಪು ಸುಲ್ತಾನ್‌ಗೆ ಮೈಸೂರು ಹುಲಿ ಎಂದು ಹೆಸರು — ನಿಜವಾಗಿಯೂ ಹಾಗೆಯೇ! ಮೈಸೂರು ರಾಜ್ಯವನ್ನು ಜ್ಞಾನ ಮತ್ತು ನ್ಯಾಯದಿಂದ ಆಳಿದ.",
+            "ಟಿಪ್ಪು ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ರಾಕೆಟ್ ಮತ್ತು ಬಂದೂಕು ಬಳಸಿದ ಮೊದಲ ಭಾರತೀಯ ರಾಜ. ಕಬ್ಬಿಣದ ರಾಕೆಟ್ ಅವನ ಆವಿಷ್ಕಾರ — ಜಗತ್ತಿನಲ್ಲೇ ಮೊದಲನೆಯದು!",
+            "ಅವನು ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ನಾಲ್ಕು ಯುದ್ಧ ಮಾಡಿದ. 'ಕುರಿಯಾಗಿ ಸಾವಿರ ವರ್ಷ ಬದುಕುವುದಕ್ಕಿಂತ ಹುಲಿಯಾಗಿ ಒಂದು ದಿನ ಬದುಕುವುದು ಮೇಲು!' ಎಂದ.",
+            "1799ರಲ್ಲಿ ಶ್ರೀರಂಗಪಟ್ಟಣದ ಯುದ್ಧದಲ್ಲಿ ವೀರ ಮರಣ ಹೊಂದಿದ. ಮೈಸೂರು ಹುಲಿ ಎಂದಿಗೂ ಮರೆಯಾಗುವುದಿಲ್ಲ!"
+          ],
+          "quiz": [
+            {
+              "q_en": "What was Tipu Sultan's famous nickname?",
+              "q_kn": "ಟಿಪ್ಪು ಸುಲ್ತಾನ್‌ನ ಪ್ರಸಿದ್ಧ ಅಡ್ಡ ಹೆಸರೇನು?",
+              "options_en": ["Tiger of Mysore", "Lion of Punjab", "Eagle of Deccan", "Wolf of Bengal"],
+              "options_kn": ["ಮೈಸೂರು ಹುಲಿ", "ಪಂಜಾಬ್ ಸಿಂಹ", "ದಕ್ಕನ್ ಹದ್ದು", "ಬೆಂಗಾಲ್ ತೋಳ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "What famous weapon did Tipu Sultan invent?",
+              "q_kn": "ಟಿಪ್ಪು ಸುಲ್ತಾನ್ ಯಾವ ಅಸ್ತ್ರ ಕಂಡುಹಿಡಿದ?",
+              "options_en": ["Iron Rocket", "Cannon", "Sword", "Catapult"],
+              "options_kn": ["ಕಬ್ಬಿಣದ ರಾಕೆಟ್", "ಫಿರಂಗಿ", "ಕತ್ತಿ", "ಕಲ್ಲೆಸೆತ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "Where did Tipu Sultan's last battle take place?",
+              "q_kn": "ಟಿಪ್ಪು ಸುಲ್ತಾನ್‌ನ ಕೊನೆಯ ಯುದ್ಧ ಎಲ್ಲಿ ನಡೆಯಿತು?",
+              "options_en": ["Seringapatam", "Bengaluru", "Belagavi", "Hampi"],
+              "options_kn": ["ಶ್ರೀರಂಗಪಟ್ಟಣ", "ಬೆಂಗಳೂರು", "ಬೆಳಗಾವಿ", "ಹಂಪಿ"],
+              "correct_index": 0
+            }
+          ],
+          "statue": {
+            "name": "Tipu Sultan Summer Palace",
+            "address": "Albert Victor Road, Bengaluru, Karnataka",
+            "distance": "~5 km from City Center, Bengaluru"
+          }
+        }
+      ]
+    },
+    {
+      "id": "udupi",
+      "name": "Udupi",
+      "name_kn": "ಉಡುಪಿ",
+      "theme": "Coastal Heritage",
+      "image": "dist_udupi",
+      "heroes": [
+        {
+          "id": "abbakka_rani",
+          "name": "Abbakka Rani",
+          "name_kn": "ಅಬ್ಬಕ್ಕ ರಾಣಿ",
+          "era": "1525–1570",
+          "category": "Queen",
+          "tagline": "The Fearless Queen of the Coast",
+          "tagline_kn": "ಕರಾವಳಿಯ ನಿರ್ಭೀತ ರಾಣಿ",
+          "image": "hero_abbakka",
+          "story_pages_en": [
+            "On the beautiful coast of Karnataka lived a queen unlike any other — Abbakka Rani of Ullal! She was trained in warfare, archery, and leadership from childhood. The sea was her kingdom!",
+            "The Portuguese came with their big ships to control the coast and collect taxes. Everyone was afraid — but not Abbakka! She stood tall and said, 'This coast belongs to us!'",
+            "Abbakka defeated the Portuguese not once, not twice, but three times! Her soldiers fought fiercely under her command. She was the first Indian woman to fight European colonizers.",
+            "She is called 'Abhaya Rani' — the Fearless Queen. Every year, people in Ullal celebrate her bravery. She shows us that one brave heart can protect an entire people!"
+          ],
+          "story_pages_kn": [
+            "ಕರ್ನಾಟಕದ ಸುಂದರ ಕರಾವಳಿಯಲ್ಲಿ ಉಳ್ಳಾಲದ ಅಬ್ಬಕ್ಕ ರಾಣಿ ವಾಸಿಸುತ್ತಿದ್ದಳು. ಬಾಲ್ಯದಿಂದಲೇ ಯುದ್ಧ, ಬಿಲ್ಲುಗಾರಿಕೆ ಕಲಿತಳು. ಸಮುದ್ರ ಅವಳ ರಾಜ್ಯ!",
+            "ಪೋರ್ಚುಗೀಸರು ದೊಡ್ಡ ಹಡಗುಗಳಲ್ಲಿ ಕರಾವಳಿ ವಶಪಡಿಸಲು ಬಂದರು. ಎಲ್ಲರೂ ಭಯಪಟ್ಟರು — ಆದರೆ ಅಬ್ಬಕ್ಕ ಅಲ್ಲ! 'ಈ ಕರಾವಳಿ ನಮ್ಮದು!' ಎಂದಳು.",
+            "ಅಬ್ಬಕ್ಕ ಪೋರ್ಚುಗೀಸರನ್ನು ಒಂದಲ್ಲ, ಎರಡಲ್ಲ, ಮೂರು ಬಾರಿ ಸೋಲಿಸಿದಳು! ಯೂರೋಪಿಯನ್ನರನ್ನು ಎದುರಿಸಿದ ಮೊದಲ ಭಾರತೀಯ ಮಹಿಳೆ.",
+            "ಅವಳನ್ನು 'ಅಭಯ ರಾಣಿ' ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಉಳ್ಳಾಲದಲ್ಲಿ ಪ್ರತಿ ವರ್ಷ ಅವಳ ಶೌರ್ಯ ಆಚರಿಸಲಾಗುತ್ತದೆ. ಒಂದು ಧೈರ್ಯಶಾಲಿ ಹೃದಯ ಇಡೀ ಜನತೆಯನ್ನು ರಕ್ಷಿಸಬಲ್ಲದು!"
+          ],
+          "quiz": [
+            {
+              "q_en": "Abbakka Rani ruled which coastal town?",
+              "q_kn": "ಅಬ್ಬಕ್ಕ ರಾಣಿ ಯಾವ ಕರಾವಳಿ ಪಟ್ಟಣ ಆಳಿದಳು?",
+              "options_en": ["Ullal", "Mangaluru", "Udupi", "Karwar"],
+              "options_kn": ["ಉಳ್ಳಾಲ", "ಮಂಗಳೂರು", "ಉಡುಪಿ", "ಕಾರವಾರ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "Who did Abbakka Rani fight against?",
+              "q_kn": "ಅಬ್ಬಕ್ಕ ರಾಣಿ ಯಾರ ವಿರುದ್ಧ ಹೋರಾಡಿದಳು?",
+              "options_en": ["Portuguese", "British", "Dutch", "French"],
+              "options_kn": ["ಪೋರ್ಚುಗೀಸರು", "ಬ್ರಿಟಿಷರು", "ಡಚ್ಚರು", "ಫ್ರೆಂಚರು"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "What is Abbakka Rani also called?",
+              "q_kn": "ಅಬ್ಬಕ್ಕ ರಾಣಿಯನ್ನು ಇನ್ನೇನು ಎಂದು ಕರೆಯುತ್ತಾರೆ?",
+              "options_en": ["Abhaya Rani", "Veer Rani", "Maha Rani", "Shakti Rani"],
+              "options_kn": ["ಅಭಯ ರಾಣಿ", "ವೀರ ರಾಣಿ", "ಮಹಾ ರಾಣಿ", "ಶಕ್ತಿ ರಾಣಿ"],
+              "correct_index": 0
+            }
+          ],
+          "statue": {
+            "name": "Abbakka Rani Statue",
+            "address": "Ullal Beach Road, Mangaluru, Karnataka",
+            "distance": "~350 km from Bengaluru"
+          }
+        }
+      ]
+    },
+    {
+      "id": "chitradurga",
+      "name": "Chitradurga",
+      "name_kn": "ಚಿತ್ರದುರ್ಗ",
+      "theme": "Land of Forts",
+      "image": "dist_chitradurga",
+      "heroes": [
+        {
+          "id": "onake_obavva",
+          "name": "Onake Obavva",
+          "name_kn": "ಒನಕೆ ಒಬ್ಬವ್ವ",
+          "era": "18th Century",
+          "category": "Warrior",
+          "tagline": "The Woman Who Defeated an Army with a Pestle",
+          "tagline_kn": "ಒನಕೆಯಿಂದ ಸೇನೆ ಸೋಲಿಸಿದ ಮಹಿಳೆ",
+          "image": "hero_obavva",
+          "story_pages_en": [
+            "In the mighty Chitradurga Fort lived a simple woman named Obavva. Her husband was a guard at the fort. She was ordinary in every way — except when it mattered most!",
+            "One afternoon, while her husband rested, Obavva discovered something terrifying — Hyder Ali's soldiers were sneaking into the fort one by one through a tiny hole in the wall!",
+            "Without hesitation, Obavva grabbed her onake — a heavy wooden pestle used for pounding rice — and stood by the hole. Each soldier who came through was knocked out by her powerful blows!",
+            "She defeated soldier after soldier until her husband returned. The fort was saved! Obavva teaches us that true courage is not about size or strength — it is about heart. She is Karnataka's bravest daughter!"
+          ],
+          "story_pages_kn": [
+            "ಶಕ್ತಿಶಾಲಿ ಚಿತ್ರದುರ್ಗ ಕೋಟೆಯಲ್ಲಿ ಒಬ್ಬವ್ವ ಎಂಬ ಸಾಮಾನ್ಯ ಮಹಿಳೆ ವಾಸಿಸುತ್ತಿದ್ದಳು. ಗಂಡ ಕಾವಲುಗಾರ. ಆದರೆ ನಿರ್ಣಾಯಕ ಕ್ಷಣದಲ್ಲಿ ಅವಳು ಅಸಾಧಾರಣ!",
+            "ಒಂದು ಮಧ್ಯಾಹ್ನ, ಗಂಡ ವಿಶ್ರಾಂತಿ ತೆಗೆದುಕೊಳ್ಳುತ್ತಿರುವಾಗ, ಒಬ್ಬವ್ವ ಭಯಂಕರ ಸಂಗತಿ ಕಂಡಳು — ಹೈದರ್ ಅಲಿಯ ಸೈನಿಕರು ಕೋಟೆಯ ಸಣ್ಣ ರಂಧ್ರದ ಮೂಲಕ ನುಸುಳುತ್ತಿದ್ದಾರೆ!",
+            "ಒಬ್ಬವ್ವ ತನ್ನ ಒನಕೆ ತೆಗೆದುಕೊಂಡು ರಂಧ್ರದ ಬಳಿ ನಿಂತಳು. ಒಳ ಬರುವ ಪ್ರತಿ ಸೈನಿಕನನ್ನು ಒನಕೆಯಿಂದ ಬಡಿದಳು!",
+            "ಗಂಡ ಬರುವವರೆಗೂ ಒಬ್ಬೊಬ್ಬ ಸೈನಿಕನನ್ನು ಸೋಲಿಸಿದಳು. ಕೋಟೆ ರಕ್ಷಿಸಲ್ಪಟ್ಟಿತು! ಒಬ್ಬವ್ವ ಕರ್ನಾಟಕದ ಧೀರ ಪುತ್ರಿ!"
+          ],
+          "quiz": [
+            {
+              "q_en": "What weapon did Onake Obavva use?",
+              "q_kn": "ಒನಕೆ ಒಬ್ಬವ್ವ ಯಾವ ಅಸ್ತ್ರ ಬಳಸಿದಳು?",
+              "options_en": ["A Pestle (Onake)", "A Sword", "A Spear", "A Bow"],
+              "options_kn": ["ಒನಕೆ", "ಕತ್ತಿ", "ಈಟಿ", "ಬಿಲ್ಲು"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "Whose army was Onake Obavva protecting against?",
+              "q_kn": "ಒನಕೆ ಒಬ್ಬವ್ವ ಯಾರ ಸೇನೆ ವಿರುದ್ಧ ರಕ್ಷಿಸಿದಳು?",
+              "options_en": ["Hyder Ali", "Tipu Sultan", "British", "Marathas"],
+              "options_kn": ["ಹೈದರ್ ಅಲಿ", "ಟಿಪ್ಪು ಸುಲ್ತಾನ್", "ಬ್ರಿಟಿಷರು", "ಮರಾಠರು"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "Which fort is Onake Obavva associated with?",
+              "q_kn": "ಒನಕೆ ಒಬ್ಬವ್ವ ಯಾವ ಕೋಟೆಗೆ ಸಂಬಂಧಿಸಿದ್ದಾರೆ?",
+              "options_en": ["Chitradurga Fort", "Kittur Fort", "Bengaluru Fort", "Bidar Fort"],
+              "options_kn": ["ಚಿತ್ರದುರ್ಗ ಕೋಟೆ", "ಕಿತ್ತೂರು ಕೋಟೆ", "ಬೆಂಗಳೂರು ಕೋಟೆ", "ಬೀದರ್ ಕೋಟೆ"],
+              "correct_index": 0
+            }
+          ],
+          "statue": {
+            "name": "Onake Obavva Statue",
+            "address": "Chitradurga Fort, Chitradurga, Karnataka",
+            "distance": "~200 km from Bengaluru"
+          }
+        }
+      ]
+    },
+    {
+      "id": "vijayanagara",
+      "name": "Vijayanagara",
+      "name_kn": "ವಿಜಯನಗರ",
+      "theme": "Ancient Echoes",
+      "image": "dist_vijayanagara",
+      "heroes": [
+        {
+          "id": "krishnadevaraya",
+          "name": "Krishnadevaraya",
+          "name_kn": "ಕೃಷ್ಣದೇವರಾಯ",
+          "era": "1509–1529",
+          "category": "King",
+          "tagline": "The Golden Emperor of Vijayanagara",
+          "tagline_kn": "ವಿಜಯನಗರದ ಚಿನ್ನದ ಚಕ್ರವರ್ತಿ",
+          "image": "hero_krishnadevaraya",
+          "story_pages_en": [
+            "Long ago, the great city of Hampi was the capital of the Vijayanagara Empire — one of the richest and most powerful kingdoms in the world! And its greatest king was Krishnadevaraya.",
+            "Krishnadevaraya was not just a great warrior who won many battles — he was also a brilliant poet who wrote in Telugu, a builder of temples, and a kind ruler who cared for every citizen.",
+            "Under his rule, Hampi was filled with gold, diamonds, and spices. Traders came from as far as Arabia and Portugal to do business there. His court had eight great poets called the Ashtadiggajas!",
+            "Even today, the magnificent ruins of Hampi remind us of his glory. He shows us that a true leader must have both the strength of a warrior and the wisdom of a poet!"
+          ],
+          "story_pages_kn": [
+            "ಬಹಳ ಹಿಂದೆ, ಹಂಪಿ ನಗರ ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ರಾಜಧಾನಿ — ಜಗತ್ತಿನ ಶ್ರೀಮಂತ ಮತ್ತು ಶಕ್ತಿಶಾಲಿ ರಾಜ್ಯ! ಅದರ ಶ್ರೇಷ್ಠ ರಾಜ ಕೃಷ್ಣದೇವರಾಯ.",
+            "ಕೃಷ್ಣದೇವರಾಯ ಕೇವಲ ವೀರ ಯೋಧನಲ್ಲ — ತೆಲುಗಿನಲ್ಲಿ ಕಾವ್ಯ ಬರೆದ ಕವಿ, ದೇವಾಲಯ ನಿರ್ಮಿಸಿದ ಶಿಲ್ಪಿ, ಪ್ರಜೆಗಳ ಒಳಿತು ಬಯಸಿದ ರಾಜ.",
+            "ಅವನ ಆಳ್ವಿಕೆಯಲ್ಲಿ ಹಂಪಿ ಚಿನ್ನ, ವಜ್ರ, ಸಾಂಬಾರ ಪದಾರ್ಥದಿಂದ ತುಂಬಿತ್ತು. ಅರಬ್ ಮತ್ತು ಪೋರ್ಚುಗಲ್‌ನಿಂದ ವ್ಯಾಪಾರಿಗಳು ಬರುತ್ತಿದ್ದರು. ಅಷ್ಟದಿಗ್ಗಜ ಕವಿಗಳು ಆಸ್ಥಾನದಲ್ಲಿದ್ದರು!",
+            "ಇಂದಿಗೂ ಹಂಪಿಯ ಅವಶೇಷಗಳು ಅವನ ಮಹಿಮೆ ಸಾರುತ್ತವೆ. ನಿಜವಾದ ನಾಯಕ ಯೋಧನ ಶಕ್ತಿ ಮತ್ತು ಕವಿಯ ಜ್ಞಾನ ಎರಡೂ ಹೊಂದಿರಬೇಕು!"
+          ],
+          "quiz": [
+            {
+              "q_en": "What was the capital of Krishnadevaraya's empire?",
+              "q_kn": "ಕೃಷ್ಣದೇವರಾಯನ ರಾಜ್ಯದ ರಾಜಧಾನಿ ಯಾವುದು?",
+              "options_en": ["Hampi", "Mysuru", "Bengaluru", "Bidar"],
+              "options_kn": ["ಹಂಪಿ", "ಮೈಸೂರು", "ಬೆಂಗಳೂರು", "ಬೀದರ್"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "In which language did Krishnadevaraya write poetry?",
+              "q_kn": "ಕೃಷ್ಣದೇವರಾಯ ಯಾವ ಭಾಷೆಯಲ್ಲಿ ಕಾವ್ಯ ಬರೆದ?",
+              "options_en": ["Telugu", "Kannada", "Sanskrit", "Tamil"],
+              "options_kn": ["ತೆಲುಗು", "ಕನ್ನಡ", "ಸಂಸ್ಕೃತ", "ತಮಿಳು"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "What were the eight great poets in his court called?",
+              "q_kn": "ಅವನ ಆಸ್ಥಾನದ ಎಂಟು ಕವಿಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+              "options_en": ["Ashtadiggajas", "Navaratnas", "Panchatantra", "Saptarishi"],
+              "options_kn": ["ಅಷ್ಟದಿಗ್ಗಜರು", "ನವರತ್ನರು", "ಪಂಚತಂತ್ರ", "ಸಪ್ತರ್ಷಿ"],
+              "correct_index": 0
+            }
+          ],
+          "statue": {
+            "name": "Krishnadevaraya Statue",
+            "address": "Hampi, Vijayanagara District, Karnataka",
+            "distance": "~350 km from Bengaluru"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dakshina_kannada",
+      "name": "Dakshina Kannada",
+      "name_kn": "ದಕ್ಷಿಣ ಕನ್ನಡ",
+      "theme": "Coastal Legends",
+      "image": "dist_dk",
+      "heroes": [
+        {
+          "id": "koti_chennaya",
+          "name": "Koti Chennaya",
+          "name_kn": "ಕೋಟಿ ಚೆನ್ನಯ್ಯ",
+          "era": "19th Century",
+          "category": "Folk Hero",
+          "tagline": "The Twin Heroes of Tulunadu",
+          "tagline_kn": "ತುಳುನಾಡಿನ ಅವಳಿ ವೀರರು",
+          "image": "hero_kotichenaya",
+          "story_pages_en": [
+            "In the land of Tulu Nadu along the Karnataka coast, two brave twin brothers were born — Koti and Chennaya. Though they came from a humble family, they had hearts full of courage and justice.",
+            "Koti and Chennaya grew up to be exceptional warriors. They were skilled in Kalarippayattu, the ancient martial art. They always stood up for the poor and the weak against cruel landlords.",
+            "The twins became legends when they fought against injustice and won! People sang songs about their bravery. Even today, they are worshipped as folk gods — their spirit is believed to protect the people of Tulu Nadu.",
+            "Their story teaches us that no matter how small or poor you are, if your heart is brave and your cause is just, you can change the world! Koti Chennaya live forever in the hearts of Tulunadu!"
+          ],
+          "story_pages_kn": [
+            "ತುಳುನಾಡಿನಲ್ಲಿ ಕೋಟಿ ಮತ್ತು ಚೆನ್ನಯ್ಯ ಎಂಬ ಅವಳಿ ಸಹೋದರರು ಜನಿಸಿದರು. ಸಾಮಾನ್ಯ ಕುಟುಂಬ, ಆದರೆ ಹೃದಯದಲ್ಲಿ ಧೈರ್ಯ ಮತ್ತು ನ್ಯಾಯ ತುಂಬಿತ್ತು.",
+            "ಅವರು ಶ್ರೇಷ್ಠ ಯೋಧರಾದರು. ಕಲರಿಪ್ಪಯಟ್ಟು ಕಲೆ ಕರಗತ ಮಾಡಿಕೊಂಡರು. ಬಡವರನ್ನು ಶೋಷಿಸುವ ಜಮೀನ್ದಾರರ ವಿರುದ್ಧ ನಿಂತರು.",
+            "ಅವಳಿ ಸಹೋದರರು ಅನ್ಯಾಯದ ವಿರುದ್ಧ ಹೋರಾಡಿ ಜಯ ಸಾಧಿಸಿದರು! ಜನರು ಅವರ ಶೌರ್ಯ ಹಾಡಿ ಕೊಂಡಾಡಿದರು. ಇಂದಿಗೂ ಜನಪದ ದೇವರಾಗಿ ಪೂಜಿಸಲ್ಪಡುತ್ತಾರೆ.",
+            "ಅವರ ಕಥೆ ಕಲಿಸುತ್ತದೆ — ಎಷ್ಟೇ ಸಣ್ಣ ಅಥವಾ ಬಡವನಾದರೂ ಧೈರ್ಯ ಮತ್ತು ನ್ಯಾಯ ಇದ್ದರೆ ಜಗತ್ತು ಬದಲಿಸಬಹುದು!"
+          ],
+          "quiz": [
+            {
+              "q_en": "Koti and Chennaya are heroes of which region?",
+              "q_kn": "ಕೋಟಿ ಚೆನ್ನಯ್ಯ ಯಾವ ಪ್ರದೇಶದ ವೀರರು?",
+              "options_en": ["Tulu Nadu", "Kodagu", "Malnad", "Bayaluseeme"],
+              "options_kn": ["ತುಳುನಾಡು", "ಕೊಡಗು", "ಮಲೆನಾಡು", "ಬಯಲುಸೀಮೆ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "What are Koti and Chennaya?",
+              "q_kn": "ಕೋಟಿ ಮತ್ತು ಚೆನ್ನಯ್ಯ ಯಾರು?",
+              "options_en": ["Twin Brothers", "Father and Son", "Friends", "Brothers-in-law"],
+              "options_kn": ["ಅವಳಿ ಸಹೋದರರು", "ತಂದೆ ಮಗ", "ಸ್ನೇಹಿತರು", "ಭಾವಮೈದುನರು"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "How are Koti Chennaya remembered today?",
+              "q_kn": "ಇಂದು ಕೋಟಿ ಚೆನ್ನಯ್ಯರನ್ನು ಹೇಗೆ ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+              "options_en": ["As Folk Gods", "As Kings", "As Poets", "As Saints"],
+              "options_kn": ["ಜನಪದ ದೇವರಾಗಿ", "ರಾಜರಾಗಿ", "ಕವಿಗಳಾಗಿ", "ಸಂತರಾಗಿ"],
+              "correct_index": 0
+            }
+          ],
+          "statue": {
+            "name": "Koti Chennaya Shrine",
+            "address": "Padubidri, Udupi District, Karnataka",
+            "distance": "~360 km from Bengaluru"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bengaluru_urban",
+      "name": "Bengaluru Urban",
+      "name_kn": "ಬೆಂಗಳೂರು ನಗರ",
+      "theme": "Silicon City Heritage",
+      "image": "dist_bengaluru",
+      "heroes": [
+        {
+          "id": "kempegowda",
+          "name": "Kempegowda I",
+          "name_kn": "ಕೆಂಪೇಗೌಡ",
+          "era": "1510–1570",
+          "category": "King",
+          "tagline": "The Founder of Bengaluru",
+          "tagline_kn": "ಬೆಂಗಳೂರಿನ ಸ್ಥಾಪಕ",
+          "image": "hero_kempegowda",
+          "story_pages_en": [
+            "Did you know Bengaluru — India's tech city — was founded over 500 years ago by a visionary chieftain named Kempegowda? He saw a great city where there was only forest!",
+            "Kempegowda built the first Bengaluru fort, laid out the roads, created water tanks like Kempambudhi, and divided the city into areas called 'petes' for different trades. He planned it all!",
+            "He built watchtowers at the four corners of the city to mark its boundaries. These towers still stand today! His city became a center of trade, culture, and prosperity.",
+            "Today, a magnificent 108-foot statue of Kempegowda stands at Bengaluru Airport — welcoming everyone to the city he founded. The next time you see Bengaluru's skyline, remember the man who dreamed it first!"
+          ],
+          "story_pages_kn": [
+            "ಭಾರತದ ತಂತ್ರಜ್ಞಾನ ನಗರ ಬೆಂಗಳೂರನ್ನು 500 ವರ್ಷಗಳ ಹಿಂದೆ ಕೆಂಪೇಗೌಡ ಎಂಬ ದೂರದರ್ಶಿ ಸ್ಥಾಪಿಸಿದ. ಕಾಡಿದ್ದಲ್ಲಿ ಮಹಾ ನಗರ ಕಂಡ!",
+            "ಕೆಂಪೇಗೌಡ ಬೆಂಗಳೂರು ಕೋಟೆ ಕಟ್ಟಿದ, ರಸ್ತೆ ನಿರ್ಮಿಸಿದ, ಕೆಂಪಾಂಬುಧಿ ಕೆರೆ ತೋಡಿಸಿದ. ನಗರವನ್ನು ವ್ಯಾಪಾರ ಪೇಟೆಗಳಾಗಿ ವಿಭಾಗಿಸಿದ!",
+            "ನಗರದ ನಾಲ್ಕು ಮೂಲೆಗಳಲ್ಲಿ ಗೋಪುರ ನಿರ್ಮಿಸಿದ — ಇಂದಿಗೂ ನಿಂತಿವೆ! ಅವನ ನಗರ ವ್ಯಾಪಾರ, ಸಂಸ್ಕೃತಿ, ಸಮೃದ್ಧಿಯ ಕೇಂದ್ರವಾಯಿತು.",
+            "ಇಂದು ಬೆಂಗಳೂರು ವಿಮಾನ ನಿಲ್ದಾಣದಲ್ಲಿ 108 ಅಡಿ ಎತ್ತರದ ಕೆಂಪೇಗೌಡ ಪ್ರತಿಮೆ ನಿಂತಿದೆ! ಬೆಂಗಳೂರು ಕಂಡಾಗ ಆ ಕನಸು ಕಂಡ ಮಹಾನ್ ವ್ಯಕ್ತಿಯನ್ನು ನೆನೆಯಿರಿ!"
+          ],
+          "quiz": [
+            {
+              "q_en": "Who founded Bengaluru?",
+              "q_kn": "ಬೆಂಗಳೂರನ್ನು ಯಾರು ಸ್ಥಾಪಿಸಿದರು?",
+              "options_en": ["Kempegowda", "Tipu Sultan", "Hyder Ali", "Krishnadevaraya"],
+              "options_kn": ["ಕೆಂಪೇಗೌಡ", "ಟಿಪ್ಪು ಸುಲ್ತಾನ್", "ಹೈದರ್ ಅಲಿ", "ಕೃಷ್ಣದೇವರಾಯ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "What famous lake did Kempegowda build?",
+              "q_kn": "ಕೆಂಪೇಗೌಡ ಯಾವ ಪ್ರಸಿದ್ಧ ಕೆರೆ ನಿರ್ಮಿಸಿದ?",
+              "options_en": ["Kempambudhi Lake", "Ulsoor Lake", "Hebbal Lake", "Sankey Tank"],
+              "options_kn": ["ಕೆಂಪಾಂಬುಧಿ ಕೆರೆ", "ಉಲ್ಸೂರು ಕೆರೆ", "ಹೆಬ್ಬಾಳ ಕೆರೆ", "ಸ್ಯಾಂಕಿ ಕೆರೆ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "Where is Kempegowda's 108-foot statue located?",
+              "q_kn": "ಕೆಂಪೇಗೌಡ 108 ಅಡಿ ಪ್ರತಿಮೆ ಎಲ್ಲಿದೆ?",
+              "options_en": ["Bengaluru Airport", "Lalbagh", "Cubbon Park", "Vidhana Soudha"],
+              "options_kn": ["ಬೆಂಗಳೂರು ವಿಮಾನ ನಿಲ್ದಾಣ", "ಲಾಲ್‌ಬಾಗ್", "ಕಬ್ಬನ್ ಪಾರ್ಕ್", "ವಿಧಾನಸೌಧ"],
+              "correct_index": 0
+            }
+          ],
+          "statue": {
+            "name": "Kempegowda Statue",
+            "address": "Kempegowda International Airport, Bengaluru",
+            "distance": "~35 km from City Center"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dharwad",
+      "name": "Dharwad",
+      "name_kn": "ಧಾರವಾಡ",
+      "theme": "Cultural Capital",
+      "image": "dist_dharwad",
+      "heroes": [
+        {
+          "id": "gangubai_hangal",
+          "name": "Gangubai Hangal",
+          "name_kn": "ಗಂಗೂಬಾಯಿ ಹಾನಗಲ್",
+          "era": "1913–2009",
+          "category": "Artist",
+          "tagline": "The Queen of Hindustani Music",
+          "tagline_kn": "ಹಿಂದೂಸ್ತಾನಿ ಸಂಗೀತದ ರಾಣಿ",
+          "image": "hero_gangubai",
+          "story_pages_en": [
+            "In the small town of Hangal in Dharwad district, a girl named Gangubai fell in love with music as a child. Her voice was so beautiful that birds seemed to stop and listen when she sang!",
+            "Gangubai trained hard in Hindustani classical music for years. It was a time when it was very difficult for women to perform on stage. But Gangubai didn't give up — she sang on!",
+            "She became one of the greatest Hindustani vocalists in India. Her Kirana Gharana style was legendary. She received the Padma Vibhushan — India's second highest civilian honor!",
+            "Gangubai showed the world that music has no barriers of gender or background. Her voice still echoes in our hearts. She is the pride of Dharwad and Karnataka forever!"
+          ],
+          "story_pages_kn": [
+            "ಧಾರವಾಡ ಜಿಲ್ಲೆಯ ಹಾನಗಲ್‌ನ ಗಂಗೂಬಾಯಿ ಬಾಲ್ಯದಿಂದಲೇ ಸಂಗೀತದ ಪ್ರೇಮಿ. ಅವಳ ಕಂಠ ಎಷ್ಟು ಸುಂದರ — ಹಕ್ಕಿಗಳೂ ನಿಂತು ಕೇಳುತ್ತಿದ್ದವು!",
+            "ಗಂಗೂಬಾಯಿ ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ ಕಲಿಯಲು ವರ್ಷಗಳ ಕಷ್ಟ ಪಟ್ಟರು. ಮಹಿಳೆಯರು ವೇದಿಕೆಯಲ್ಲಿ ಹಾಡಲು ತೊಂದರೆ ಇದ್ದ ಕಾಲ. ಆದರೆ ಗಂಗೂಬಾಯಿ ಹಾಡಿಕೊಂಡೇ ಇದ್ದರು!",
+            "ಅವರು ಭಾರತದ ಶ್ರೇಷ್ಠ ಹಿಂದೂಸ್ತಾನಿ ಗಾಯಕರಲ್ಲಿ ಒಬ್ಬರಾದರು. ಕಿರಾಣ ಘರಾಣ ಶೈಲಿ ಅದ್ಭುತ. ಪದ್ಮ ವಿಭೂಷಣ ಪ್ರಶಸ್ತಿ ಪಡೆದರು!",
+            "ಗಂಗೂಬಾಯಿ ತೋರಿದರು — ಸಂಗೀತಕ್ಕೆ ಲಿಂಗ ಅಥವಾ ಹಿನ್ನೆಲೆಯ ಅಡ್ಡಿ ಇಲ್ಲ. ಅವರ ಕಂಠ ಇಂದಿಗೂ ನಮ್ಮ ಹೃದಯದಲ್ಲಿ ಅನುರಣಿಸುತ್ತದೆ!"
+          ],
+          "quiz": [
+            {
+              "q_en": "Gangubai Hangal was famous for which type of music?",
+              "q_kn": "ಗಂಗೂಬಾಯಿ ಹಾನಗಲ್ ಯಾವ ಸಂಗೀತಕ್ಕೆ ಪ್ರಸಿದ್ಧ?",
+              "options_en": ["Hindustani Classical", "Carnatic", "Folk", "Bhajan"],
+              "options_kn": ["ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ", "ಕರ್ನಾಟಕ ಸಂಗೀತ", "ಜಾನಪದ", "ಭಜನೆ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "Which award did Gangubai Hangal receive?",
+              "q_kn": "ಗಂಗೂಬಾಯಿ ಹಾನಗಲ್ ಯಾವ ಪ್ರಶಸ್ತಿ ಪಡೆದರು?",
+              "options_en": ["Padma Vibhushan", "Padma Shri", "Bharat Ratna", "Padma Bhushan"],
+              "options_kn": ["ಪದ್ಮ ವಿಭೂಷಣ", "ಪದ್ಮಶ್ರೀ", "ಭಾರತ ರತ್ನ", "ಪದ್ಮ ಭೂಷಣ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "Gangubai Hangal is from which district?",
+              "q_kn": "ಗಂಗೂಬಾಯಿ ಹಾನಗಲ್ ಯಾವ ಜಿಲ್ಲೆಯವರು?",
+              "options_en": ["Dharwad", "Mysuru", "Belagavi", "Bengaluru"],
+              "options_kn": ["ಧಾರವಾಡ", "ಮೈಸೂರು", "ಬೆಳಗಾವಿ", "ಬೆಂಗಳೂರು"],
+              "correct_index": 0
+            }
+          ],
+          "statue": {
+            "name": "Gangubai Hangal Memorial",
+            "address": "Dharwad, Karnataka",
+            "distance": "~430 km from Bengaluru"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kodagu",
+      "name": "Kodagu",
+      "name_kn": "ಕೊಡಗು",
+      "theme": "Land of Warriors",
+      "image": "dist_kodagu",
+      "heroes": [
+        {
+          "id": "field_marshal_cariappa",
+          "name": "Field Marshal K.M. Cariappa",
+          "name_kn": "ಫೀಲ್ಡ್ ಮಾರ್ಷಲ್ ಕೆ.ಎಂ. ಕಾರಿಯಪ್ಪ",
+          "era": "1899–1993",
+          "category": "Military",
+          "tagline": "India's First Commander-in-Chief",
+          "tagline_kn": "ಭಾರತದ ಮೊದಲ ಕಮಾಂಡರ್-ಇನ್-ಚೀಫ್",
+          "image": "hero_cariappa",
+          "story_pages_en": [
+            "From the misty hills of Kodagu came a soldier who would change history — Kodandera Madappa Cariappa. Born in 1899, he dreamed of serving his nation in uniform from a very young age.",
+            "Cariappa was the first Indian officer to command a battalion in the British Indian Army. He was known for his discipline, courage, and deep love for his soldiers. They called him 'Kipper'!",
+            "When India became independent in 1947, Cariappa made history again — he became the first Commander-in-Chief of the Indian Army! On 15 January 1949, he took command. That day is now celebrated as Army Day!",
+            "He was also given the highest military rank — Field Marshal — making him one of only two people in Indian history to hold that honor. Kodagu's son made all of India proud!"
+          ],
+          "story_pages_kn": [
+            "ಕೊಡಗಿನ ಮಂಜಿನ ಗುಡ್ಡಗಳಿಂದ ಬಂದ ಕೊಡಂದೇರ ಮಡಪ್ಪ ಕಾರಿಯಪ್ಪ ಇತಿಹಾಸ ಬದಲಿಸಿದರು. 1899ರಲ್ಲಿ ಜನಿಸಿದ, ಬಾಲ್ಯದಿಂದಲೇ ದೇಶಸೇವೆ ಕನಸು.",
+            "ಬ್ರಿಟಿಷ್ ಭಾರತೀಯ ಸೇನೆಯ ಬೆಟಾಲಿಯನ್ ಆಜ್ಞಾಪಿಸಿದ ಮೊದಲ ಭಾರತೀಯ ಅಧಿಕಾರಿ. ಶಿಸ್ತು, ಧೈರ್ಯ, ಸೈನಿಕರ ಮೇಲೆ ಪ್ರೀತಿ. ಅವರನ್ನು 'ಕಿಪ್ಪರ್' ಎನ್ನುತ್ತಿದ್ದರು!",
+            "1947ರಲ್ಲಿ ಭಾರತ ಸ್ವತಂತ್ರವಾದಾಗ ಕಾರಿಯಪ್ಪ ಭಾರತೀಯ ಸೇನೆಯ ಮೊದಲ ಕಮಾಂಡರ್-ಇನ್-ಚೀಫ್ ಆದರು! ಜನವರಿ 15, 1949 — ಇಂದು ಸೇನಾ ದಿನ!",
+            "ಅವರಿಗೆ ಅತ್ಯುನ್ನತ ಮಿಲಿಟರಿ ಶ್ರೇಣಿ ಫೀಲ್ಡ್ ಮಾರ್ಷಲ್ ನೀಡಲಾಯಿತು. ಕೊಡಗಿನ ಪುತ್ರ ಭಾರತಕ್ಕೆ ಹೆಮ್ಮೆ ತಂದರು!"
+          ],
+          "quiz": [
+            {
+              "q_en": "What was K.M. Cariappa's historic role?",
+              "q_kn": "ಕೆ.ಎಂ. ಕಾರಿಯಪ್ಪರ ಐತಿಹಾಸಿಕ ಸ್ಥಾನ ಯಾವುದು?",
+              "options_en": ["India's first Army Commander-in-Chief", "First PM", "First President", "First Defence Minister"],
+              "options_kn": ["ಭಾರತದ ಮೊದಲ ಸೇನಾ ಕಮಾಂಡರ್-ಇನ್-ಚೀಫ್", "ಮೊದಲ ಪ್ರಧಾನಿ", "ಮೊದಲ ರಾಷ್ಟ್ರಪತಿ", "ಮೊದಲ ರಕ್ಷಣಾ ಮಂತ್ರಿ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "What day is celebrated as Army Day in India?",
+              "q_kn": "ಭಾರತದಲ್ಲಿ ಸೇನಾ ದಿನ ಯಾವಾಗ?",
+              "options_en": ["January 15", "January 26", "August 15", "October 2"],
+              "options_kn": ["ಜನವರಿ 15", "ಜನವರಿ 26", "ಆಗಸ್ಟ್ 15", "ಅಕ್ಟೋಬರ್ 2"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "What is Cariappa's highest military rank?",
+              "q_kn": "ಕಾರಿಯಪ್ಪರ ಅತ್ಯುನ್ನತ ಮಿಲಿಟರಿ ಶ್ರೇಣಿ?",
+              "options_en": ["Field Marshal", "General", "Admiral", "Air Chief Marshal"],
+              "options_kn": ["ಫೀಲ್ಡ್ ಮಾರ್ಷಲ್", "ಜನರಲ್", "ಅಡ್ಮಿರಲ್", "ಏರ್ ಚೀಫ್ ಮಾರ್ಷಲ್"],
+              "correct_index": 0
+            }
+          ],
+          "statue": {
+            "name": "Cariappa Memorial",
+            "address": "Madikeri, Kodagu, Karnataka",
+            "distance": "~260 km from Bengaluru"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hassan",
+      "name": "Hassan",
+      "name_kn": "ಹಾಸನ",
+      "theme": "Hoysala Grandeur",
+      "image": "dist_hassan",
+      "heroes": [
+        {
+          "id": "vishnuvardhana",
+          "name": "Vishnuvardhana",
+          "name_kn": "ವಿಷ್ಣುವರ್ಧನ",
+          "era": "1108–1152",
+          "category": "King",
+          "tagline": "The Hoysala King Who Built Temple Wonders",
+          "tagline_kn": "ದೇವಾಲಯ ಅದ್ಭುತ ನಿರ್ಮಿಸಿದ ಹೊಯ್ಸಳ ರಾಜ",
+          "image": "hero_vishnuvardhana",
+          "story_pages_en": [
+            "The Hoysala dynasty ruled Karnataka with art, architecture, and greatness. Their greatest king, Vishnuvardhana, was a warrior and a builder whose temples are UNESCO World Heritage marvels!",
+            "Vishnuvardhana defeated the Cholas and expanded his kingdom greatly. But what made him truly special was his love for art. He built the stunning Chennakeshava Temple at Belur!",
+            "The Chennakeshava Temple is a wonder — covered with thousands of intricate carvings of gods, dancers, animals, and stories. It took 103 years to complete! Every stone tells a story.",
+            "Vishnuvardhana shows us that true greatness lies not just in conquest, but in creating beauty that lasts forever. His temples in Belur and Halebidu still draw visitors from all over the world!"
+          ],
+          "story_pages_kn": [
+            "ಹೊಯ್ಸಳ ರಾಜವಂಶ ಕಲೆ, ವಾಸ್ತುಶಿಲ್ಪ ಮತ್ತು ಶ್ರೇಷ್ಠತೆಯಿಂದ ಕರ್ನಾಟಕ ಆಳಿತು. ಅವರ ಮಹಾನ್ ರಾಜ ವಿಷ್ಣುವರ್ಧನ ಯೋಧ ಮತ್ತು ನಿರ್ಮಾತೃ!",
+            "ವಿಷ್ಣುವರ್ಧನ ಚೋಳರನ್ನು ಸೋಲಿಸಿ ರಾಜ್ಯ ವಿಸ್ತರಿಸಿದ. ಆದರೆ ಅವನ ವಿಶೇಷತೆ — ಕಲೆ ಪ್ರೇಮ. ಬೇಲೂರಿನ ಅದ್ಭುತ ಚೆನ್ನಕೇಶವ ದೇವಾಲಯ ನಿರ್ಮಿಸಿದ!",
+            "ಚೆನ್ನಕೇಶವ ದೇವಾಲಯ ಒಂದು ಅದ್ಭುತ — ಸಾವಿರಾರು ಸೂಕ್ಷ್ಮ ಕೆತ್ತನೆ, ದೇವರು, ನೃತ್ಯಗಾರರು, ಪ್ರಾಣಿಗಳು. 103 ವರ್ಷ ಪೂರ್ಣಗೊಳ್ಳಲು ತೆಗೆದುಕೊಂಡಿತು! ಪ್ರತಿ ಕಲ್ಲು ಕಥೆ ಹೇಳುತ್ತದೆ.",
+            "ವಿಷ್ಣುವರ್ಧನ ತೋರಿಸಿದ — ನಿಜವಾದ ಶ್ರೇಷ್ಠತೆ ಜಯದಲ್ಲಿ ಮಾತ್ರ ಅಲ್ಲ, ಶಾಶ್ವತ ಸೌಂದರ್ಯ ಸೃಷ್ಟಿಯಲ್ಲಿ. ಬೇಲೂರು-ಹಳೇಬೀಡಿನ ದೇವಾಲಯಗಳು ಇಂದಿಗೂ ಜಗತ್ತನ್ನು ಸೆಳೆಯುತ್ತವೆ!"
+          ],
+          "quiz": [
+            {
+              "q_en": "Which temple did Vishnuvardhana build?",
+              "q_kn": "ವಿಷ್ಣುವರ್ಧನ ಯಾವ ದೇವಾಲಯ ನಿರ್ಮಿಸಿದ?",
+              "options_en": ["Chennakeshava Temple, Belur", "Brihadeeshwara Temple", "Hampi Temple", "Badami Cave Temple"],
+              "options_kn": ["ಚೆನ್ನಕೇಶವ ದೇವಾಲಯ, ಬೇಲೂರು", "ಬೃಹದೀಶ್ವರ ದೇವಾಲಯ", "ಹಂಪಿ ದೇವಾಲಯ", "ಬಾದಾಮಿ ಗುಹಾ ದೇವಾಲಯ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "Which dynasty did Vishnuvardhana belong to?",
+              "q_kn": "ವಿಷ್ಣುವರ್ಧನ ಯಾವ ರಾಜವಂಶದವ?",
+              "options_en": ["Hoysala", "Vijayanagara", "Kadamba", "Ganga"],
+              "options_kn": ["ಹೊಯ್ಸಳ", "ವಿಜಯನಗರ", "ಕದಂಬ", "ಗಂಗ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "How many years did it take to complete Chennakeshava Temple?",
+              "q_kn": "ಚೆನ್ನಕೇಶವ ದೇವಾಲಯ ಪೂರ್ಣಗೊಳ್ಳಲು ಎಷ್ಟು ವರ್ಷ ಬೇಕಾಯಿತು?",
+              "options_en": ["103 years", "50 years", "200 years", "75 years"],
+              "options_kn": ["103 ವರ್ಷ", "50 ವರ್ಷ", "200 ವರ್ಷ", "75 ವರ್ಷ"],
+              "correct_index": 0
+            }
+          ],
+          "statue": {
+            "name": "Chennakeshava Temple",
+            "address": "Belur, Hassan District, Karnataka",
+            "distance": "~220 km from Bengaluru"
+          }
+        }
+      ]
+    },
+    {
+      "id": "raichur",
+      "name": "Raichur",
+      "name_kn": "ರಾಯಚೂರು",
+      "theme": "Deccan Heritage",
+      "image": "dist_raichur",
+      "heroes": [
+        {
+          "id": "basavanna",
+          "name": "Basavanna",
+          "name_kn": "ಬಸವಣ್ಣ",
+          "era": "1131–1167",
+          "category": "Saint",
+          "tagline": "The Social Reformer Who Fought for Equality",
+          "tagline_kn": "ಸಮಾನತೆಗಾಗಿ ಹೋರಾಡಿದ ಸಮಾಜ ಸುಧಾರಕ",
+          "image": "hero_basavanna",
+          "story_pages_en": [
+            "About 900 years ago in Karnataka lived a great saint and social reformer named Basavanna. He was a minister in the Kalachuri kingdom, but his heart belonged to the people — all people, equally!",
+            "In a time when society was divided by caste and treated some people as lesser, Basavanna stood up and said — 'No! Every person is equal before God!' He welcomed everyone into his movement — farmers, weavers, cobblers — all!",
+            "He created the 'Anubhava Mantapa' — a great hall of discussion — where people of all backgrounds could come, debate ideas, and learn. It was like the first parliament of the common people!",
+            "His teachings called Vachanas are still read and loved today. 'Work is worship' — 'Kayakave Kailasa' — these words of Basavanna guide millions. He is Karnataka's greatest social reformer!"
+          ],
+          "story_pages_kn": [
+            "ಸುಮಾರು 900 ವರ್ಷಗಳ ಹಿಂದೆ ಕರ್ನಾಟಕದಲ್ಲಿ ಬಸವಣ್ಣ ಎಂಬ ಮಹಾನ್ ಸಂತ ಮತ್ತು ಸಮಾಜ ಸುಧಾರಕ ಜನಿಸಿದ. ಕಳಚೂರಿ ರಾಜ್ಯದ ಮಂತ್ರಿ, ಆದರೆ ಹೃದಯ ಜನರಿಗಾಗಿ!",
+            "ಜಾತಿ ತಾರತಮ್ಯ ತುಂಬಿದ್ದ ಕಾಲದಲ್ಲಿ ಬಸವಣ್ಣ ನಿಂತು ಹೇಳಿದ — 'ದೇವರ ಮುಂದೆ ಎಲ್ಲರೂ ಸಮಾನ!' ರೈತ, ನೇಕಾರ, ಚಮ್ಮಾರ — ಎಲ್ಲರನ್ನೂ ಸ್ವೀಕರಿಸಿದ.",
+            "ಅನುಭವ ಮಂಟಪ ಸ್ಥಾಪಿಸಿದ — ಎಲ್ಲ ಜನರು ಬಂದು ವಿಚಾರ ವಿನಿಮಯ ಮಾಡಿಕೊಳ್ಳುವ ಸ್ಥಳ. ಸಾಮಾನ್ಯ ಜನರ ಮೊದಲ ಸಂಸತ್ತು!",
+            "ಅವರ ವಚನಗಳು ಇಂದಿಗೂ ಪ್ರಿಯ. 'ಕಾಯಕವೇ ಕೈಲಾಸ' — ಕೆಲಸವೇ ಪೂಜೆ. ಬಸವಣ್ಣ ಕರ್ನಾಟಕದ ಮಹಾನ್ ಸಮಾಜ ಸುಧಾರಕ!"
+          ],
+          "quiz": [
+            {
+              "q_en": "What is Basavanna famous for?",
+              "q_kn": "ಬಸವಣ್ಣ ಯಾವುದಕ್ಕೆ ಪ್ರಸಿದ್ಧ?",
+              "options_en": ["Social Reform & Equality", "Military Battles", "Building Temples", "Writing Epics"],
+              "options_kn": ["ಸಮಾಜ ಸುಧಾರಣೆ ಮತ್ತು ಸಮಾನತೆ", "ಮಿಲಿಟರಿ ಯುದ್ಧ", "ದೇವಾಲಯ ನಿರ್ಮಾಣ", "ಮಹಾಕಾವ್ಯ ಬರಹ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "What did Basavanna create for public discussion?",
+              "q_kn": "ಬಸವಣ್ಣ ಸಾರ್ವಜನಿಕ ಚರ್ಚೆಗಾಗಿ ಏನು ಸ್ಥಾಪಿಸಿದ?",
+              "options_en": ["Anubhava Mantapa", "Vidhana Soudha", "Dharma Sabha", "Kalyana Mantapa"],
+              "options_kn": ["ಅನುಭವ ಮಂಟಪ", "ವಿಧಾನಸೌಧ", "ಧರ್ಮ ಸಭೆ", "ಕಲ್ಯಾಣ ಮಂಟಪ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "What does 'Kayakave Kailasa' mean?",
+              "q_kn": "'ಕಾಯಕವೇ ಕೈಲಾಸ' ಎಂದರೆ ಏನು?",
+              "options_en": ["Work is Worship", "God is Great", "Truth Wins", "Love All"],
+              "options_kn": ["ಕೆಲಸವೇ ಪೂಜೆ", "ದೇವರು ಮಹಾನ್", "ಸತ್ಯ ಗೆಲ್ಲುತ್ತದೆ", "ಎಲ್ಲರನ್ನೂ ಪ್ರೀತಿಸು"],
+              "correct_index": 0
+            }
+          ],
+          "statue": {
+            "name": "Basavanna Statue",
+            "address": "Basava Circle, Bengaluru, Karnataka",
+            "distance": "~5 km from City Center"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bagalkot",
+      "name": "Bagalkot",
+      "name_kn": "ಬಾಗಲಕೋಟೆ",
+      "theme": "Chalukya Legacy",
+      "image": "dist_bagalkot",
+      "heroes": [
+        {
+          "id": "pulakesi_ii",
+          "name": "Pulakesi II",
+          "name_kn": "ಪುಲಕೇಶಿ II",
+          "era": "610–642 AD",
+          "category": "King",
+          "tagline": "The Emperor Who Defeated Harsha",
+          "tagline_kn": "ಹರ್ಷನನ್ನು ಸೋಲಿಸಿದ ಚಕ್ರವರ್ತಿ",
+          "image": "hero_pulakesi",
+          "story_pages_en": [
+            "In the ancient city of Badami (Vatapi), ruled one of the greatest kings of all time — Pulakesi II of the Chalukya dynasty. His kingdom stretched from the Arabian Sea to the Bay of Bengal!",
+            "Emperor Harsha from the North was trying to conquer all of India. But when he reached the Narmada river and tried to cross south, Pulakesi II stopped him! He defeated the mighty Harsha and pushed him back!",
+            "Even the famous Chinese traveller Xuanzang (Hiuen Tsang) wrote about Pulakesi II's greatness. The famous painter Ravi Varma and the Ajanta cave paintings depict this great king!",
+            "Pulakesi II shows us that Karnataka has always been a land of brave defenders. His Chalukya empire made Badami a center of art and learning. The cave temples of Badami are his lasting legacy!"
+          ],
+          "story_pages_kn": [
+            "ಪ್ರಾಚೀನ ಬಾದಾಮಿ (ವಾತಾಪಿ) ನಗರದಲ್ಲಿ ಸರ್ವಕಾಲದ ಮಹಾನ್ ರಾಜ ಚಾಲುಕ್ಯ ಪುಲಕೇಶಿ II ಆಳಿದ. ಅರಬ್ಬಿ ಸಮುದ್ರದಿಂದ ಬಂಗಾಳ ಕೊಲ್ಲಿವರೆಗೆ ರಾಜ್ಯ!",
+            "ಉತ್ತರದ ಚಕ್ರವರ್ತಿ ಹರ್ಷ ಭಾರತ ಗೆಲ್ಲಲು ಬಂದ. ನರ್ಮದಾ ನದಿ ದಾಟಿ ದಕ್ಷಿಣಕ್ಕೆ ಬರಲು ಯತ್ನಿಸಿದಾಗ ಪುಲಕೇಶಿ II ತಡೆದ! ಶಕ್ತಿಶಾಲಿ ಹರ್ಷನನ್ನು ಸೋಲಿಸಿ ಹಿಂದಕ್ಕೆ ಕಳಿಸಿದ!",
+            "ಚೀನಾ ಪ್ರವಾಸಿ ಹ್ಯೂಯೆನ್ ತ್ಸಾಂಗ್ ಕೂಡ ಪುಲಕೇಶಿ II ಮಹಿಮೆ ಬರೆದಿದ್ದಾನೆ. ಅಜಂತಾ ಗುಹಾ ಚಿತ್ರಗಳಲ್ಲಿ ಈ ಮಹಾರಾಜ ಚಿತ್ರಿತ!",
+            "ಪುಲಕೇಶಿ II ತೋರಿಸಿದ — ಕರ್ನಾಟಕ ಸದಾ ಧೀರ ರಕ್ಷಕರ ನಾಡು. ಬಾದಾಮಿ ಗುಹಾ ದೇವಾಲಯಗಳು ಅವನ ಶಾಶ್ವತ ಸ್ಮರಣೆ!"
+          ],
+          "quiz": [
+            {
+              "q_en": "Which dynasty did Pulakesi II belong to?",
+              "q_kn": "ಪುಲಕೇಶಿ II ಯಾವ ರಾಜವಂಶದವ?",
+              "options_en": ["Chalukya", "Hoysala", "Rashtrakuta", "Kadamba"],
+              "options_kn": ["ಚಾಲುಕ್ಯ", "ಹೊಯ್ಸಳ", "ರಾಷ್ಟ್ರಕೂಟ", "ಕದಂಬ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "Which great emperor did Pulakesi II defeat?",
+              "q_kn": "ಪುಲಕೇಶಿ II ಯಾವ ಮಹಾ ಚಕ್ರವರ್ತಿಯನ್ನು ಸೋಲಿಸಿದ?",
+              "options_en": ["Harsha", "Ashoka", "Akbar", "Chandragupta"],
+              "options_kn": ["ಹರ್ಷ", "ಅಶೋಕ", "ಅಕ್ಬರ್", "ಚಂದ್ರಗುಪ್ತ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "What is the ancient name of Bagalkot's famous city?",
+              "q_kn": "ಬಾಗಲಕೋಟೆಯ ಪ್ರಸಿದ್ಧ ನಗರದ ಪ್ರಾಚೀನ ಹೆಸರೇನು?",
+              "options_en": ["Vatapi (Badami)", "Hampi", "Shravanabelagola", "Belur"],
+              "options_kn": ["ವಾತಾಪಿ (ಬಾದಾಮಿ)", "ಹಂಪಿ", "ಶ್ರವಣಬೆಳಗೊಳ", "ಬೇಲೂರು"],
+              "correct_index": 0
+            }
+          ],
+          "statue": {
+            "name": "Badami Cave Temples",
+            "address": "Badami, Bagalkot District, Karnataka",
+            "distance": "~500 km from Bengaluru"
+          }
+        }
+      ]
+    },
+    {
+      "id": "shivamogga",
+      "name": "Shivamogga",
+      "name_kn": "ಶಿವಮೊಗ್ಗ",
+      "theme": "Gateway to Malnad",
+      "image": "dist_shivamogga",
+      "heroes": [
+        {
+          "id": "keladi_chennamma",
+          "name": "Keladi Chennamma",
+          "name_kn": "ಕೆಳದಿ ಚೆನ್ನಮ್ಮ",
+          "era": "1671–1696",
+          "category": "Queen",
+          "tagline": "The Queen Who Sheltered Shivaji's Son",
+          "tagline_kn": "ಶಿವಾಜಿ ಮಗನಿಗೆ ಆಶ್ರಯ ನೀಡಿದ ರಾಣಿ",
+          "image": "hero_keladichenamma",
+          "story_pages_en": [
+            "Deep in the forests of Malnad ruled a brave queen named Keladi Chennamma. She was queen of the Keladi Kingdom in Shivamogga and she was known for her sharp mind and fearless heart.",
+            "When Aurangzeb's Mughal army was hunting down Rajaram — son of the great Maratha king Shivaji — Rajaram fled south and came to Keladi Chennamma for shelter. She could have turned him away to stay safe.",
+            "But Chennamma said — 'My kingdom is a place of refuge for the brave!' She sheltered Rajaram and refused to hand him over to Aurangzeb, even when the Mughal emperor sent a threatening army!",
+            "She stood firm and protected the guest in her kingdom. Her bravery and the value of giving shelter — 'Athiti Devo Bhava' — made her a legend. Shivamogga is proud of its fearless queen!"
+          ],
+          "story_pages_kn": [
+            "ಮಲೆನಾಡಿನ ಕಾಡಿನಾಳದಲ್ಲಿ ಧೀರ ರಾಣಿ ಕೆಳದಿ ಚೆನ್ನಮ್ಮ ಆಳುತ್ತಿದ್ದಳು. ಶಿವಮೊಗ್ಗದ ಕೆಳದಿ ರಾಜ್ಯದ ರಾಣಿ — ಚುರುಕು ಬುದ್ಧಿ, ನಿರ್ಭೀತ ಹೃದಯ.",
+            "ಔರಂಗಜೇಬನ ಮೊಘಲ್ ಸೇನೆ ಶಿವಾಜಿಯ ಮಗ ರಾಜಾರಾಮನನ್ನು ಬೇಟೆಯಾಡುತ್ತಿತ್ತು. ಅವನು ದಕ್ಷಿಣಕ್ಕೆ ಓಡಿ ಕೆಳದಿ ಚೆನ್ನಮ್ಮಳ ಬಳಿ ಆಶ್ರಯ ಕೇಳಿದ.",
+            "ಚೆನ್ನಮ್ಮ ಹೇಳಿದಳು — 'ನನ್ನ ರಾಜ್ಯ ಧೀರರಿಗೆ ಆಶ್ರಯ!' ರಾಜಾರಾಮನನ್ನು ಮಂಡಿ ಔರಂಗಜೇಬನ ಬೆದರಿಕೆಯ ಸೇನೆ ಕಳಿಸಿದರೂ ಕೊಡಲಿಲ್ಲ!",
+            "ಅತಿಥಿಯನ್ನು ರಕ್ಷಿಸಿದ ಧೈರ್ಯ ಅವಳನ್ನು ದಂತಕಥೆ ಮಾಡಿತು. 'ಅತಿಥಿ ದೇವೋ ಭವ' ಮೌಲ್ಯ ಎತ್ತಿ ಹಿಡಿದ ಕೆಳದಿ ಚೆನ್ನಮ್ಮ ಶಿವಮೊಗ್ಗದ ಹೆಮ್ಮೆ!"
+          ],
+          "quiz": [
+            {
+              "q_en": "Whose son did Keladi Chennamma shelter?",
+              "q_kn": "ಕೆಳದಿ ಚೆನ್ನಮ್ಮ ಯಾರ ಮಗನಿಗೆ ಆಶ್ರಯ ನೀಡಿದಳು?",
+              "options_en": ["Shivaji", "Aurangzeb", "Akbar", "Tipu Sultan"],
+              "options_kn": ["ಶಿವಾಜಿ", "ಔರಂಗಜೇಬ", "ಅಕ್ಬರ್", "ಟಿಪ್ಪು ಸುಲ್ತಾನ್"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "From which district was Keladi Chennamma?",
+              "q_kn": "ಕೆಳದಿ ಚೆನ್ನಮ್ಮ ಯಾವ ಜಿಲ್ಲೆಯವರು?",
+              "options_en": ["Shivamogga", "Mysuru", "Dharwad", "Hassan"],
+              "options_kn": ["ಶಿವಮೊಗ್ಗ", "ಮೈಸೂರು", "ಧಾರವಾಡ", "ಹಾಸನ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "Who was Keladi Chennamma protecting against?",
+              "q_kn": "ಕೆಳದಿ ಚೆನ್ನಮ್ಮ ಯಾರ ವಿರುದ್ಧ ರಕ್ಷಿಸಿದಳು?",
+              "options_en": ["Aurangzeb", "British", "Portuguese", "Marathas"],
+              "options_kn": ["ಔರಂಗಜೇಬ", "ಬ್ರಿಟಿಷರು", "ಪೋರ್ಚುಗೀಸರು", "ಮರಾಠರು"],
+              "correct_index": 0
+            }
+          ],
+          "statue": {
+            "name": "Keladi Chennamma Statue",
+            "address": "Keladi, Shivamogga District, Karnataka",
+            "distance": "~310 km from Bengaluru"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tumakuru",
+      "name": "Tumakuru",
+      "name_kn": "ತುಮಕೂರು",
+      "theme": "Silk City",
+      "image": "dist_tumakuru",
+      "heroes": [
+        {
+          "id": "siddaganga_swami",
+          "name": "Siddaganga Swami",
+          "name_kn": "ಸಿದ್ಧಗಂಗಾ ಸ್ವಾಮಿ",
+          "era": "1907–2019",
+          "category": "Saint",
+          "tagline": "The Walking God Who Fed Millions",
+          "tagline_kn": "ಕೋಟ್ಯಂತರ ಜನರನ್ನು ಪೋಷಿಸಿದ ನಡೆದಾಡುವ ದೇವರು",
+          "image": "hero_siddaganga",
+          "story_pages_en": [
+            "In Tumakuru lived a saint so pure and so giving that people called him 'The Walking God' — Siddaganga Swami. He lived for 111 years and dedicated every single day to the poor and the students of Karnataka.",
+            "Siddaganga Swami ran a free school and hostel at the Siddaganga Math. Every day, thousands of students — mostly from poor families — were given free food, free education, and free shelter. No child was turned away!",
+            "He worked tirelessly even at age 100! He believed that serving the poor was serving God. 'Dasoha' — free service — was his life's message. He inspired millions through his selfless work.",
+            "When he passed away in 2019 at 111 years, all of Karnataka mourned. He was awarded the Padma Bhushan. His life teaches us: the greatest hero is one who gives without expectation!"
+          ],
+          "story_pages_kn": [
+            "ತುಮಕೂರಿನಲ್ಲಿ ಜನರು 'ನಡೆದಾಡುವ ದೇವರು' ಎನ್ನುತ್ತಿದ್ದ ಸಂತ — ಸಿದ್ಧಗಂಗಾ ಸ್ವಾಮಿ. 111 ವರ್ಷ ಬದುಕಿದ, ಪ್ರತಿ ದಿನ ಬಡವರಿಗಾಗಿ, ವಿದ್ಯಾರ್ಥಿಗಳಿಗಾಗಿ ಮೀಸಲಿಟ್ಟ.",
+            "ಸಿದ್ಧಗಂಗಾ ಮಠದಲ್ಲಿ ಉಚಿತ ಶಾಲೆ ಮತ್ತು ವಸತಿ ನಿಲಯ ನಡೆಸಿದರು. ಪ್ರತಿ ದಿನ ಸಾವಿರಾರು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಉಚಿತ ಊಟ, ಶಿಕ್ಷಣ, ವಸತಿ. ಯಾವ ಮಗುವನ್ನೂ ಹಿಂದಿರುಗಿಸಲಿಲ್ಲ!",
+            "100 ವರ್ಷದಲ್ಲೂ ಅವಿಶ್ರಾಂತ ಕೆಲಸ! 'ದಾಸೋಹ' — ಉಚಿತ ಸೇವೆ — ಅವರ ಜೀವನ ಸಂದೇಶ. ನಿಸ್ವಾರ್ಥ ಸೇವೆಯಿಂದ ಕೋಟ್ಯಂತರ ಜನ ಪ್ರೇರಣೆ ಪಡೆದರು.",
+            "2019ರಲ್ಲಿ 111 ವರ್ಷದಲ್ಲಿ ನಿಧನ. ಇಡೀ ಕರ್ನಾಟಕ ಶೋಕಿಸಿತು. ಪದ್ಮ ಭೂಷಣ ಪ್ರಶಸ್ತಿ ಪಡೆದರು. ಅಪೇಕ್ಷೆಯಿಲ್ಲದೆ ಕೊಡುವವನೇ ನಿಜವಾದ ವೀರ!"
+          ],
+          "quiz": [
+            {
+              "q_en": "What was Siddaganga Swami called by people?",
+              "q_kn": "ಜನರು ಸಿದ್ಧಗಂಗಾ ಸ್ವಾಮಿಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಿದ್ದರು?",
+              "options_en": ["Walking God", "Tiger Saint", "River Saint", "Mountain God"],
+              "options_kn": ["ನಡೆದಾಡುವ ದೇವರು", "ಹುಲಿ ಸಂತ", "ನದಿ ಸಂತ", "ಬೆಟ್ಟದ ದೇವರು"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "What did Siddaganga Swami provide for free to students?",
+              "q_kn": "ಸಿದ್ಧಗಂಗಾ ಸ್ವಾಮಿ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಉಚಿತವಾಗಿ ಏನು ನೀಡಿದರು?",
+              "options_en": ["Food, Education & Shelter", "Books only", "Money", "Clothes"],
+              "options_kn": ["ಊಟ, ಶಿಕ್ಷಣ ಮತ್ತು ವಸತಿ", "ಕೇವಲ ಪುಸ್ತಕ", "ಹಣ", "ಬಟ್ಟೆ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "How old was Siddaganga Swami when he passed away?",
+              "q_kn": "ಸಿದ್ಧಗಂಗಾ ಸ್ವಾಮಿ ಎಷ್ಟು ವಯಸ್ಸಿನಲ್ಲಿ ನಿಧನ ಹೊಂದಿದರು?",
+              "options_en": ["111", "100", "90", "120"],
+              "options_kn": ["111", "100", "90", "120"],
+              "correct_index": 0
+            }
+          ],
+          "statue": {
+            "name": "Siddaganga Math",
+            "address": "Tumakuru, Karnataka",
+            "distance": "~70 km from Bengaluru"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gadag",
+      "name": "Gadag",
+      "name_kn": "ಗದಗ",
+      "theme": "Temple Town",
+      "image": "dist_gadag",
+      "heroes": [
+        {
+          "id": "akkamahadevi",
+          "name": "Akkamahadevi",
+          "name_kn": "ಅಕ್ಕಮಹಾದೇವಿ",
+          "era": "12th Century",
+          "category": "Saint",
+          "tagline": "The Fearless Poet-Saint of Karnataka",
+          "tagline_kn": "ಕರ್ನಾಟಕದ ನಿರ್ಭೀತ ಕವಯಿತ್ರಿ-ಸಂತೆ",
+          "image": "hero_akkamahadevi",
+          "story_pages_en": [
+            "In 12th century Karnataka lived a remarkable woman named Akkamahadevi. She was a great devotee of Lord Shiva and a poet whose verses — called Vachanas — were filled with wisdom and courage.",
+            "Akkamahadevi refused to be a queen even when a king wanted to marry her. She chose the path of spirituality and freedom over comfort and riches. Her devotion to Shiva was her only love!",
+            "She walked barefoot through forests, writing beautiful Vachanas about love, freedom, and equality. Her words challenged social norms and inspired women to think freely and live courageously.",
+            "She is called 'Akka' — meaning elder sister — because she was like a wise elder sister to all of Karnataka. Her Vachanas are still sung today. She is one of Karnataka's most beloved poet-saints!"
+          ],
+          "story_pages_kn": [
+            "12ನೇ ಶತಮಾನದ ಕರ್ನಾಟಕದಲ್ಲಿ ಅಕ್ಕಮಹಾದೇವಿ ಎಂಬ ಅಸಾಧಾರಣ ಮಹಿಳೆ ಜೀವಿಸಿದಳು. ಶಿವ ಭಕ್ತೆ ಮತ್ತು ವಚನ ರಚಿಸಿದ ಕವಯಿತ್ರಿ.",
+            "ರಾಜ ಮದುವೆ ಆಗಲು ಬಯಸಿದರೂ ರಾಣಿಯಾಗಲು ನಿರಾಕರಿಸಿದಳು. ಸಂಪತ್ತು ಮತ್ತು ಅರಮನೆಗಿಂತ ಆಧ್ಯಾತ್ಮಿಕ ಸ್ವಾತಂತ್ರ್ಯ ಆಯ್ಕೆ ಮಾಡಿದಳು!",
+            "ಕಾಡಿನಲ್ಲಿ ಬರಿಗಾಲಿನಲ್ಲಿ ನಡೆದು ಪ್ರೀತಿ, ಸ್ವಾತಂತ್ರ್ಯ, ಸಮಾನತೆ ವಚನ ಬರೆದಳು. ಸಾಮಾಜಿಕ ನಿಯಮ ಪ್ರಶ್ನಿಸಿ ಮಹಿಳೆಯರಿಗೆ ಪ್ರೇರಣೆ ನೀಡಿದಳು.",
+            "ಅವಳನ್ನು 'ಅಕ್ಕ' ಎನ್ನುತ್ತಾರೆ — ಹಿರಿಯ ಅಕ್ಕ. ಇಂದಿಗೂ ಅವಳ ವಚನಗಳು ಹಾಡಲ್ಪಡುತ್ತವೆ. ಕರ್ನಾಟಕದ ಅತ್ಯಂತ ಪ್ರಿಯ ಕವಯಿತ್ರಿ-ಸಂತೆ!"
+          ],
+          "quiz": [
+            {
+              "q_en": "What are the poems of Akkamahadevi called?",
+              "q_kn": "ಅಕ್ಕಮಹಾದೇವಿಯ ಕವಿತೆಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+              "options_en": ["Vachanas", "Shlokas", "Dohas", "Haiku"],
+              "options_kn": ["ವಚನಗಳು", "ಶ್ಲೋಕಗಳು", "ದೋಹಾ", "ಹೈಕು"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "Who was Akkamahadevi devoted to?",
+              "q_kn": "ಅಕ್ಕಮಹಾದೇವಿ ಯಾರ ಭಕ್ತೆ?",
+              "options_en": ["Lord Shiva", "Lord Vishnu", "Lord Brahma", "Goddess Durga"],
+              "options_kn": ["ಶಿವ", "ವಿಷ್ಣು", "ಬ್ರಹ್ಮ", "ದುರ್ಗೆ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "What does 'Akka' mean?",
+              "q_kn": "'ಅಕ್ಕ' ಎಂದರೆ ಏನು?",
+              "options_en": ["Elder Sister", "Mother", "Warrior", "Queen"],
+              "options_kn": ["ಹಿರಿಯ ಅಕ್ಕ", "ತಾಯಿ", "ಯೋಧ", "ರಾಣಿ"],
+              "correct_index": 0
+            }
+          ],
+          "statue": {
+            "name": "Akkamahadevi Statue",
+            "address": "Udutadi, Shivamogga, Karnataka",
+            "distance": "~290 km from Bengaluru"
+          }
+        }
+      ]
+    },
+    {
+      "id": "haveri",
+      "name": "Haveri",
+      "name_kn": "ಹಾವೇರಿ",
+      "theme": "Cotton Land",
+      "image": "dist_haveri",
+      "heroes": [
+        {
+          "id": "kadamba_mayurasharma",
+          "name": "Mayurasharma",
+          "name_kn": "ಮಯೂರಶರ್ಮ",
+          "era": "345–365 AD",
+          "category": "King",
+          "tagline": "Founder of the First Kannada Kingdom",
+          "tagline_kn": "ಮೊದಲ ಕನ್ನಡ ರಾಜ್ಯದ ಸ್ಥಾಪಕ",
+          "image": "hero_mayurasharma",
+          "story_pages_en": [
+            "Did you know the first independent Kannada kingdom was founded right here in Karnataka? Its founder was Mayurasharma — a brave young Brahmin scholar who turned warrior when his honor was insulted!",
+            "Mayurasharma went to study in Kanchipuram. But a Pallava guard insulted him and refused him entry to the school. Furious, Mayurasharma decided to pick up the sword instead of the pen!",
+            "He gathered warriors, fought the Pallavas, and won! He established the Kadamba Kingdom — the first dynasty to use Kannada as its official language. Kannada was now a language of kings!",
+            "His story teaches us that when injustice happens, the brave don't just accept it — they rise and create something new! The Kadambas lit the first lamp of Kannada pride, and it still burns brightly!"
+          ],
+          "story_pages_kn": [
+            "ಕರ್ನಾಟಕದ ಮೊದಲ ಸ್ವತಂತ್ರ ಕನ್ನಡ ರಾಜ್ಯ ಸ್ಥಾಪಿಸಿದ ಮಯೂರಶರ್ಮ — ಅವಮಾನ ಸಹಿಸದೆ ವಿದ್ಯಾರ್ಥಿಯಿಂದ ಯೋಧನಾದ!",
+            "ಮಯೂರಶರ್ಮ ಕಾಂಚೀಪುರಂಗೆ ಓದಲು ಹೋದ. ಆದರೆ ಪಲ್ಲವ ಕಾವಲುಗಾರ ಅವಮಾನಿಸಿ ಶಾಲೆ ಪ್ರವೇಶ ನಿರಾಕರಿಸಿದ. ಕೋಪದಿಂದ ಖಡ್ಗ ಹಿಡಿದ!",
+            "ಯೋಧರನ್ನು ಸೇರಿ ಪಲ್ಲವರನ್ನು ಸೋಲಿಸಿದ! ಕದಂಬ ರಾಜ್ಯ ಸ್ಥಾಪಿಸಿದ — ಕನ್ನಡವನ್ನು ರಾಜಭಾಷೆ ಮಾಡಿದ ಮೊದಲ ರಾಜವಂಶ!",
+            "ಅನ್ಯಾಯ ಸಹಿಸದ ಧೈರ್ಯ ಹೊಸ ಇತಿಹಾಸ ಬರೆಯಿತು! ಕದಂಬರು ಕನ್ನಡ ಅಭಿಮಾನದ ಮೊದಲ ದೀಪ ಹಚ್ಚಿದರು — ಅದು ಇಂದಿಗೂ ಪ್ರಜ್ವಲಿಸುತ್ತಿದೆ!"
+          ],
+          "quiz": [
+            {
+              "q_en": "What was the first Kannada kingdom called?",
+              "q_kn": "ಮೊದಲ ಕನ್ನಡ ರಾಜ್ಯ ಏನೆಂದು ಕರೆಯಲ್ಪಟ್ಟಿತು?",
+              "options_en": ["Kadamba Kingdom", "Hoysala Kingdom", "Vijayanagara", "Ganga Kingdom"],
+              "options_kn": ["ಕದಂಬ ರಾಜ್ಯ", "ಹೊಯ್ಸಳ ರಾಜ್ಯ", "ವಿಜಯನಗರ", "ಗಂಗ ರಾಜ್ಯ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "Why did Mayurasharma become a warrior?",
+              "q_kn": "ಮಯೂರಶರ್ಮ ಏಕೆ ಯೋಧನಾದ?",
+              "options_en": ["Insulted by Pallava guard", "Wanted to be king", "Lost in battle", "Inspired by Basavanna"],
+              "options_kn": ["ಪಲ್ಲವ ಕಾವಲುಗಾರ ಅವಮಾನಿಸಿದ", "ರಾಜನಾಗಲು ಬಯಸಿದ", "ಯುದ್ಧದಲ್ಲಿ ಸೋತ", "ಬಸವಣ್ಣರಿಂದ ಪ್ರೇರಣೆ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "What language did the Kadambas make official?",
+              "q_kn": "ಕದಂಬರು ಯಾವ ಭಾಷೆಯನ್ನು ರಾಜಭಾಷೆ ಮಾಡಿದರು?",
+              "options_en": ["Kannada", "Sanskrit", "Tamil", "Telugu"],
+              "options_kn": ["ಕನ್ನಡ", "ಸಂಸ್ಕೃತ", "ತಮಿಳು", "ತೆಲುಗು"],
+              "correct_index": 0
+            }
+          ],
+          "statue": {
+            "name": "Kadamba Heritage Site",
+            "address": "Banavasi, Haveri District, Karnataka",
+            "distance": "~380 km from Bengaluru"
+          }
+        }
+      ]
+    },
+    {
+      "id": "koppal",
+      "name": "Koppal",
+      "name_kn": "ಕೊಪ್ಪಳ",
+      "theme": "Tungabhadra Banks",
+      "image": "dist_koppal",
+      "heroes": [
+        {
+          "id": "kanakadasa",
+          "name": "Kanakadasa",
+          "name_kn": "ಕನಕದಾಸ",
+          "era": "1508–1606",
+          "category": "Saint",
+          "tagline": "The Saint Who Made the Idol Turn Around",
+          "tagline_kn": "ಮೂರ್ತಿ ತಿರುಗುವಂತೆ ಮಾಡಿದ ಸಂತ",
+          "image": "hero_kanakadasa",
+          "story_pages_en": [
+            "Kanakadasa was a great saint and poet who lived near Koppal in Karnataka. He was born into a shepherd community and was a devotee of Lord Vishnu. His devotion was pure as mountain water!",
+            "One day Kanakadasa went to the Udupi Krishna Temple to see the Lord. But the priests refused him entry because of his caste. His heart broke — but he did not give up. He sat outside and sang his devotion!",
+            "Something miraculous happened! The wall of the temple cracked open — creating a window — and Lord Krishna himself turned around to give Kanakadasa his darshan! Even today, this window is called 'Kanakana Kindi' — Kanaka's Window!",
+            "Kanakadasa teaches us that God loves a pure heart, not high birth. His songs called 'Keertanas' and 'Mundige' are sung across Karnataka. He is a saint of equality, love, and music!"
+          ],
+          "story_pages_kn": [
+            "ಕನಕದಾಸ ಕೊಪ್ಪಳ ಬಳಿ ಜನಿಸಿದ ಮಹಾನ್ ಸಂತ ಮತ್ತು ಕವಿ. ಕುರುಬ ಸಮುದಾಯದಲ್ಲಿ ಜನಿಸಿದ, ವಿಷ್ಣು ಭಕ್ತ. ಅವನ ಭಕ್ತಿ ಶುದ್ಧ!",
+            "ಒಂದು ದಿನ ಉಡುಪಿ ಕೃಷ್ಣ ದೇವಾಲಯಕ್ಕೆ ಹೋದ. ಆದರೆ ಅರ್ಚಕರು ಜಾತಿ ಕಾರಣ ಪ್ರವೇಶ ನಿರಾಕರಿಸಿದರು. ಹೊರಗೆ ಕೂತು ಭಕ್ತಿ ಗೀತೆ ಹಾಡಿದ!",
+            "ಪವಾಡ ನಡೆಯಿತು! ದೇವಾಲಯದ ಗೋಡೆ ಬಿರುಕು ಬಿಟ್ಟು ಕಿಟಕಿ ತೆರೆದುಕೊಂಡಿತು — ಶ್ರೀ ಕೃಷ್ಣ ಸ್ವತಃ ತಿರುಗಿ ಕನಕದಾಸನಿಗೆ ದರ್ಶನ ನೀಡಿದ! ಈ ಕಿಟಕಿ ಇಂದಿಗೂ 'ಕನಕನ ಕಿಂಡಿ'!",
+            "ಕನಕದಾಸ ಕಲಿಸಿದ — ದೇವರು ಶುದ್ಧ ಹೃದಯ ಪ್ರೀತಿಸುತ್ತಾನೆ, ಜಾತಿ ಅಲ್ಲ. ಅವನ ಕೀರ್ತನೆಗಳು ಕರ್ನಾಟಕದಾದ್ಯಂತ ಹಾಡಲ್ಪಡುತ್ತವೆ!"
+          ],
+          "quiz": [
+            {
+              "q_en": "What is 'Kanakana Kindi'?",
+              "q_kn": "'ಕನಕನ ಕಿಂಡಿ' ಎಂದರೇನು?",
+              "options_en": ["The window at Udupi Temple", "A river", "A village", "A fort"],
+              "options_kn": ["ಉಡುಪಿ ದೇವಾಲಯದ ಕಿಟಕಿ", "ನದಿ", "ಗ್ರಾಮ", "ಕೋಟೆ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "Kanakadasa was a devotee of which God?",
+              "q_kn": "ಕನಕದಾಸ ಯಾವ ದೇವರ ಭಕ್ತ?",
+              "options_en": ["Lord Vishnu / Krishna", "Lord Shiva", "Lord Ganesha", "Goddess Durga"],
+              "options_kn": ["ವಿಷ್ಣು / ಕೃಷ್ಣ", "ಶಿವ", "ಗಣೇಶ", "ದುರ್ಗೆ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "What miracle happened when Kanakadasa was denied entry?",
+              "q_kn": "ಪ್ರವೇಶ ನಿರಾಕರಿಸಿದಾಗ ಯಾವ ಪವಾಡ ನಡೆಯಿತು?",
+              "options_en": ["Temple wall cracked open", "Temple door opened", "Rain came suddenly", "Flowers fell from sky"],
+              "options_kn": ["ಗೋಡೆ ಬಿರುಕು ಬಿಟ್ಟಿತು", "ಬಾಗಿಲು ತೆರೆಯಿತು", "ಮಳೆ ಬಂತು", "ಮೇಲಿನಿಂದ ಹೂ ಬಿದ್ದವು"],
+              "correct_index": 0
+            }
+          ],
+          "statue": {
+            "name": "Kanakana Kindi",
+            "address": "Udupi Sri Krishna Temple, Udupi, Karnataka",
+            "distance": "~390 km from Bengaluru"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mandya",
+      "name": "Mandya",
+      "name_kn": "ಮಂಡ್ಯ",
+      "theme": "Sugar Bowl of Karnataka",
+      "image": "dist_mandya",
+      "heroes": [
+        {
+          "id": "m_visvesvaraya",
+          "name": "Sir M. Visvesvaraya",
+          "name_kn": "ಸರ್ ಎಂ. ವಿಶ್ವೇಶ್ವರಯ್ಯ",
+          "era": "1860–1962",
+          "category": "Engineer",
+          "tagline": "The Engineer Who Built Modern Karnataka",
+          "tagline_kn": "ಆಧುನಿಕ ಕರ್ನಾಟಕ ನಿರ್ಮಿಸಿದ ಇಂಜಿನಿಯರ್",
+          "image": "hero_mv",
+          "story_pages_en": [
+            "From a small village near Chikkaballapur (related to Mandya region) came the greatest engineer India has ever produced — Sir Mokshagundam Visvesvaraya, or simply MV, as everyone called him!",
+            "MV built dams, designed flood control systems, planned cities, and helped industrialize Mysuru. He built the Krishna Raja Sagara (KRS) dam — one of the largest dams in the world at that time!",
+            "He was so disciplined and hardworking that he worked till 90 years of age! He always said — 'Industrialize or perish!' He received the Bharat Ratna — India's highest honor — at age 98!",
+            "Engineers Day in India is celebrated on his birthday — September 15. Every engineer in India looks up to MV as their hero. He shows us that with hard work and knowledge, you can change the destiny of a nation!"
+          ],
+          "story_pages_kn": [
+            "ಭಾರತ ಕಂಡ ಶ್ರೇಷ್ಠ ಇಂಜಿನಿಯರ್ ಸರ್ ಮೋಕ್ಷಗುಂಡಂ ವಿಶ್ವೇಶ್ವರಯ್ಯ — ಸರಳವಾಗಿ MV. ಆಧುನಿಕ ಕರ್ನಾಟಕ ನಿರ್ಮಿಸಿದ ಮಹಾನ್ ಮೇಧಾವಿ!",
+            "ಅಣೆಕಟ್ಟು ನಿರ್ಮಿಸಿದ, ಪ್ರವಾಹ ನಿಯಂತ್ರಣ ವ್ಯವಸ್ಥೆ ರೂಪಿಸಿದ, ನಗರ ಯೋಜಿಸಿದ. ಕೃಷ್ಣರಾಜ ಸಾಗರ (KRS) ಅಣೆಕಟ್ಟು ನಿರ್ಮಿಸಿದ — ಆಗ ಜಗತ್ತಿನ ದೊಡ್ಡ ಅಣೆಕಟ್ಟುಗಳಲ್ಲೊಂದು!",
+            "90 ವರ್ಷದವರೆಗೂ ಕೆಲಸ ಮಾಡಿದ ಶಿಸ್ತಿನ ಮನುಷ್ಯ! 'ಕೈಗಾರಿಕೀಕರಣ ಅಥವಾ ನಾಶ!' ಎಂದ. 98 ವರ್ಷದಲ್ಲಿ ಭಾರತ ರತ್ನ ಪ್ರಶಸ್ತಿ ಪಡೆದರು!",
+            "ಅವರ ಹುಟ್ಟಿದ ದಿನ ಸೆಪ್ಟೆಂಬರ್ 15 — ಭಾರತದ ಇಂಜಿನಿಯರ್ಸ್ ದಿನ. ಕಠಿಣ ಪರಿಶ್ರಮ ಮತ್ತು ಜ್ಞಾನದಿಂದ ರಾಷ್ಟ್ರದ ಭವಿಷ್ಯ ಬದಲಿಸಬಹುದು!"
+          ],
+          "quiz": [
+            {
+              "q_en": "What is Engineer's Day celebrated on?",
+              "q_kn": "ಇಂಜಿನಿಯರ್ಸ್ ದಿನ ಯಾವಾಗ ಆಚರಿಸಲಾಗುತ್ತದೆ?",
+              "options_en": ["September 15", "January 26", "August 15", "October 2"],
+              "options_kn": ["ಸೆಪ್ಟೆಂಬರ್ 15", "ಜನವರಿ 26", "ಆಗಸ್ಟ್ 15", "ಅಕ್ಟೋಬರ್ 2"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "Which famous dam did MV build?",
+              "q_kn": "MV ಯಾವ ಪ್ರಸಿದ್ಧ ಅಣೆಕಟ್ಟು ನಿರ್ಮಿಸಿದರು?",
+              "options_en": ["KRS Dam", "Tungabhadra Dam", "Almatti Dam", "Supa Dam"],
+              "options_kn": ["ಕೃಷ್ಣರಾಜ ಸಾಗರ", "ತುಂಗಭದ್ರ ಅಣೆಕಟ್ಟು", "ಆಲಮಟ್ಟಿ ಅಣೆಕಟ್ಟು", "ಸೂಪ ಅಣೆಕಟ್ಟು"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "What was MV's famous quote about development?",
+              "q_kn": "MV ಅಭಿವೃದ್ಧಿ ಬಗ್ಗೆ ಹೇಳಿದ ಮಾತು?",
+              "options_en": ["Industrialize or Perish", "Work is Worship", "Truth Always Wins", "Unity is Strength"],
+              "options_kn": ["ಕೈಗಾರಿಕೀಕರಣ ಅಥವಾ ನಾಶ", "ಕೆಲಸವೇ ಪೂಜೆ", "ಸತ್ಯ ಗೆಲ್ಲುತ್ತದೆ", "ಏಕತೆಯೇ ಶಕ್ತಿ"],
+              "correct_index": 0
+            }
+          ],
+          "statue": {
+            "name": "Sir MV Statue",
+            "address": "Dr. Ambedkar Veedhi, Bengaluru, Karnataka",
+            "distance": "~3 km from City Center"
+          }
+        }
+      ]
+    },
+    {
+      "id": "chikkaballapur",
+      "name": "Chikkaballapur",
+      "name_kn": "ಚಿಕ್ಕಬಳ್ಳಾಪುರ",
+      "theme": "Nandi Hills Country",
+      "image": "dist_chikkaballapur",
+      "heroes": [
+        {
+          "id": "sr_bommai",
+          "name": "S.R. Bommai",
+          "name_kn": "ಎಸ್.ಆರ್. ಬೊಮ್ಮಾಯಿ",
+          "era": "1924–2007",
+          "category": "Leader",
+          "tagline": "The Leader Behind India's Federal Structure",
+          "tagline_kn": "ಭಾರತದ ಒಕ್ಕೂಟ ರಚನೆಯ ಹಿಂದಿನ ನಾಯಕ",
+          "image": "hero_bommai",
+          "story_pages_en": [
+            "From Chikkaballapur district came a leader who changed how democracy works in India — S.R. Bommai. He served as Chief Minister of Karnataka and cared deeply about the rights of state governments.",
+            "The SR Bommai case of 1994 is one of the most important court judgments in Indian history. It stopped the central government from easily dismissing state governments and protected India's federal structure!",
+            "His fight was for fairness — that states should have their rights respected and that no government should be removed without proper reason. This made democracy stronger for all Indians.",
+            "His legacy lives in every state election, every state's rights. The 'Bommai Judgment' is taught in every law school in India. He showed that one person's fight for justice can protect the rights of millions!"
+          ],
+          "story_pages_kn": [
+            "ಚಿಕ್ಕಬಳ್ಳಾಪುರದ ಎಸ್.ಆರ್. ಬೊಮ್ಮಾಯಿ ಭಾರತ ಪ್ರಜಾತಂತ್ರ ಬದಲಿಸಿದ ನಾಯಕ. ಕರ್ನಾಟಕ ಮುಖ್ಯಮಂತ್ರಿ, ರಾಜ್ಯ ಸರ್ಕಾರಗಳ ಹಕ್ಕಿಗಾಗಿ ಹೋರಾಡಿದರು.",
+            "1994ರ SR ಬೊಮ್ಮಾಯಿ ಪ್ರಕರಣ ಭಾರತ ಇತಿಹಾಸದ ಪ್ರಮುಖ ನ್ಯಾಯಾಲಯ ತೀರ್ಪು. ಕೇಂದ್ರ ಸರ್ಕಾರ ರಾಜ್ಯ ಸರ್ಕಾರ ವಜಾ ಮಾಡುವುದನ್ನು ನಿಲ್ಲಿಸಿತು!",
+            "ಅವರ ಹೋರಾಟ ನ್ಯಾಯಕ್ಕಾಗಿ — ರಾಜ್ಯಗಳ ಹಕ್ಕು ಗೌರವಿಸಬೇಕು. ಎಲ್ಲ ಭಾರತೀಯರಿಗೆ ಪ್ರಜಾತಂತ್ರ ಬಲಗೊಳಿಸಿತು.",
+            "'ಬೊಮ್ಮಾಯಿ ತೀರ್ಪು' ಭಾರತದ ಪ್ರತಿ ಕಾನೂನು ಶಾಲೆಯಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆ. ಒಬ್ಬ ವ್ಯಕ್ತಿಯ ನ್ಯಾಯ ಹೋರಾಟ ಕೋಟ್ಯಂತರ ಜನರ ಹಕ್ಕು ರಕ್ಷಿಸುತ್ತದೆ!"
+          ],
+          "quiz": [
+            {
+              "q_en": "What is the SR Bommai case famous for?",
+              "q_kn": "SR ಬೊಮ್ಮಾಯಿ ಪ್ರಕರಣ ಯಾವುದಕ್ಕೆ ಪ್ರಸಿದ್ಧ?",
+              "options_en": ["Protecting state governments' rights", "Building dams", "Winning a war", "Starting a school"],
+              "options_kn": ["ರಾಜ್ಯ ಸರ್ಕಾರ ಹಕ್ಕು ರಕ್ಷಿಸುವುದು", "ಅಣೆಕಟ್ಟು ನಿರ್ಮಾಣ", "ಯುದ್ಧ ಗೆಲ್ಲುವುದು", "ಶಾಲೆ ಪ್ರಾರಂಭ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "S.R. Bommai served as Chief Minister of which state?",
+              "q_kn": "ಎಸ್.ಆರ್. ಬೊಮ್ಮಾಯಿ ಯಾವ ರಾಜ್ಯದ ಮುಖ್ಯಮಂತ್ರಿಯಾಗಿದ್ದರು?",
+              "options_en": ["Karnataka", "Maharashtra", "Tamil Nadu", "Andhra Pradesh"],
+              "options_kn": ["ಕರ್ನಾಟಕ", "ಮಹಾರಾಷ್ಟ್ರ", "ತಮಿಳುನಾಡು", "ಆಂಧ್ರ ಪ್ರದೇಶ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "When was the famous Bommai judgment?",
+              "q_kn": "ಪ್ರಸಿದ್ಧ ಬೊಮ್ಮಾಯಿ ತೀರ್ಪು ಯಾವಾಗ?",
+              "options_en": ["1994", "1947", "1977", "2004"],
+              "options_kn": ["1994", "1947", "1977", "2004"],
+              "correct_index": 0
+            }
+          ],
+          "statue": {
+            "name": "SR Bommai Memorial",
+            "address": "Hubli, Dharwad District, Karnataka",
+            "distance": "~410 km from Bengaluru"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bidar",
+      "name": "Bidar",
+      "name_kn": "ಬೀದರ್",
+      "theme": "Bidar Craft City",
+      "image": "dist_bidar",
+      "heroes": [
+        {
+          "id": "mahmud_gawan",
+          "name": "Mahmud Gawan",
+          "name_kn": "ಮಹಮೂದ್ ಗಾವಾನ್",
+          "era": "1411–1481",
+          "category": "Scholar",
+          "tagline": "The Scholar-Minister of the Bahmani Sultanate",
+          "tagline_kn": "ಬಹಮನಿ ಸಲ್ತನತ್‌ನ ವಿದ್ವಾಂಸ ಮಂತ್ರಿ",
+          "image": "hero_mahmudgawan",
+          "story_pages_en": [
+            "In the historic city of Bidar lived one of the greatest scholar-statesmen of medieval India — Mahmud Gawan. He came from Persia and became the Prime Minister of the Bahmani Sultanate!",
+            "Gawan was not just a minister — he was a brilliant scholar, poet, and diplomat. He built a magnificent madrasa — an Islamic school of learning — in Bidar that still stands today!",
+            "He administered a vast kingdom with justice and wisdom. He promoted education, trade, and arts. He corresponded with scholars across the world in Arabic, Persian, and Turkish.",
+            "His legacy — the Mahmud Gawan Madrasa — is one of the finest examples of medieval architecture in India. It stands as proof that Bidar was once a great center of learning and culture!"
+          ],
+          "story_pages_kn": [
+            "ಐತಿಹಾಸಿಕ ಬೀದರ್ ನಗರದಲ್ಲಿ ಮಧ್ಯಕಾಲೀನ ಭಾರತದ ಶ್ರೇಷ್ಠ ವಿದ್ವಾಂಸ ರಾಜನೀತಿಜ್ಞ ಮಹಮೂದ್ ಗಾವಾನ್ ಜೀವಿಸಿದ. ಪರ್ಷಿಯಾದಿಂದ ಬಂದ, ಬಹಮನಿ ಸಲ್ತನತ್‌ನ ಪ್ರಧಾನ ಮಂತ್ರಿ!",
+            "ಕೇವಲ ಮಂತ್ರಿ ಅಲ್ಲ — ಪ್ರಕಾಂಡ ವಿದ್ವಾಂಸ, ಕವಿ, ರಾಜನಯಿಕ. ಬೀದರ್‌ನಲ್ಲಿ ಅದ್ಭುತ ಮದ್ರಾಸ — ಇಸ್ಲಾಮಿಕ್ ಶಿಕ್ಷಣ ಸಂಸ್ಥೆ — ನಿರ್ಮಿಸಿದ. ಇಂದಿಗೂ ನಿಂತಿದೆ!",
+            "ನ್ಯಾಯ ಮತ್ತು ಜ್ಞಾನದಿಂದ ವಿಶಾಲ ರಾಜ್ಯ ಆಡಳಿತ ನಡೆಸಿದ. ಶಿಕ್ಷಣ, ವ್ಯಾಪಾರ, ಕಲೆ ಉತ್ತೇಜಿಸಿದ. ಅರಬ್ಬಿ, ಪರ್ಷಿಯನ್, ತುರ್ಕಿ ಭಾಷೆಯಲ್ಲಿ ಜಗತ್ತಿನ ವಿದ್ವಾಂಸರೊಂದಿಗೆ ಪತ್ರ ವ್ಯವಹಾರ.",
+            "ಮಹಮೂದ್ ಗಾವಾನ್ ಮದ್ರಾಸ ಮಧ್ಯಕಾಲೀನ ಭಾರತದ ಶ್ರೇಷ್ಠ ವಾಸ್ತುಶಿಲ್ಪ. ಬೀದರ್ ಒಂದು ಕಾಲದಲ್ಲಿ ವಿದ್ಯೆ ಮತ್ತು ಸಂಸ್ಕೃತಿಯ ಕೇಂದ್ರ ಎಂಬುದಕ್ಕೆ ಪುರಾವೆ!"
+          ],
+          "quiz": [
+            {
+              "q_en": "What did Mahmud Gawan build in Bidar?",
+              "q_kn": "ಮಹಮೂದ್ ಗಾವಾನ್ ಬೀದರ್‌ನಲ್ಲಿ ಏನು ನಿರ್ಮಿಸಿದ?",
+              "options_en": ["A Madrasa (school)", "A Fort", "A Temple", "A Dam"],
+              "options_kn": ["ಮದ್ರಾಸ (ಶಾಲೆ)", "ಕೋಟೆ", "ದೇವಾಲಯ", "ಅಣೆಕಟ್ಟು"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "Mahmud Gawan was the minister of which sultanate?",
+              "q_kn": "ಮಹಮೂದ್ ಗಾವಾನ್ ಯಾವ ಸಲ್ತನತ್‌ನ ಮಂತ್ರಿ?",
+              "options_en": ["Bahmani", "Mughal", "Delhi", "Bijapur"],
+              "options_kn": ["ಬಹಮನಿ", "ಮೊಘಲ್", "ದಿಲ್ಲಿ", "ಬಿಜಾಪುರ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "Where did Mahmud Gawan originally come from?",
+              "q_kn": "ಮಹಮೂದ್ ಗಾವಾನ್ ಮೂಲತಃ ಎಲ್ಲಿಂದ ಬಂದ?",
+              "options_en": ["Persia", "Arabia", "Turkey", "Afghanistan"],
+              "options_kn": ["ಪರ್ಷಿಯಾ", "ಅರೇಬಿಯಾ", "ತುರ್ಕಿ", "ಅಫ್ಘಾನಿಸ್ತಾನ"],
+              "correct_index": 0
+            }
+          ],
+          "statue": {
+            "name": "Mahmud Gawan Madrasa",
+            "address": "Bidar City, Karnataka",
+            "distance": "~680 km from Bengaluru"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kalaburagi",
+      "name": "Kalaburagi",
+      "name_kn": "ಕಲಬುರಗಿ",
+      "theme": "Sharana Tradition",
+      "image": "dist_kalaburagi",
+      "heroes": [
+        {
+          "id": "sharanas",
+          "name": "The Sharanas of Kalyana",
+          "name_kn": "ಕಲ್ಯಾಣದ ಶರಣರು",
+          "era": "12th Century",
+          "category": "Saints",
+          "tagline": "The Social Revolution of the Lingayat Sharanas",
+          "tagline_kn": "ಲಿಂಗಾಯತ ಶರಣರ ಸಮಾಜ ಕ್ರಾಂತಿ",
+          "image": "hero_sharanas",
+          "story_pages_en": [
+            "In the ancient city of Kalyana (near today's Kalaburagi), 900 years ago, something revolutionary happened! A group of saints called Sharanas gathered around Basavanna and started a movement for equality and justice.",
+            "The Sharanas came from all walks of life — a cobbler, a hunter, a woman, a potter, a soldier — all equal! They met at the Anubhava Mantapa to share wisdom. This was India's first movement for social equality!",
+            "They wrote beautiful Vachanas — short spiritual poems — that challenged caste discrimination, spoke of women's rights, and celebrated honest labor. Their message was simple: God is in everyone!",
+            "Allama Prabhu, Akkamahadevi, Basavanna, Channabasavanna — these Sharanas changed Karnataka forever. Their Vachana movement is Karnataka's greatest cultural contribution to the world!"
+          ],
+          "story_pages_kn": [
+            "ಪ್ರಾಚೀನ ಕಲ್ಯಾಣ (ಇಂದಿನ ಕಲಬುರಗಿ ಬಳಿ) ನಗರದಲ್ಲಿ 900 ವರ್ಷಗಳ ಹಿಂದೆ ಕ್ರಾಂತಿ ನಡೆಯಿತು! ಬಸವಣ್ಣ ಸುತ್ತ ಶರಣರು ಸಮಾನತೆ ಮತ್ತು ನ್ಯಾಯಕ್ಕಾಗಿ ಆಂದೋಲನ ಆರಂಭಿಸಿದರು.",
+            "ಶರಣರು ಎಲ್ಲ ವರ್ಗದ — ಚಮ್ಮಾರ, ಬೇಟೆಗಾರ, ಮಹಿಳೆ, ಕುಂಬಾರ, ಯೋಧ — ಎಲ್ಲರೂ ಸಮಾನ! ಅನುಭವ ಮಂಟಪದಲ್ಲಿ ಜ್ಞಾನ ಹಂಚಿಕೊಂಡರು. ಭಾರತದ ಮೊದಲ ಸಾಮಾಜಿಕ ಸಮಾನತೆ ಆಂದೋಲನ!",
+            "ಜಾತಿ ತಾರತಮ್ಯ ಪ್ರಶ್ನಿಸಿ, ಮಹಿಳಾ ಹಕ್ಕು ಮಾತನಾಡಿ, ಪ್ರಾಮಾಣಿಕ ದುಡಿಮೆ ಆಚರಿಸಿ ಅದ್ಭುತ ವಚನಗಳು ಬರೆದರು. ಸಂದೇಶ ಸರಳ: ದೇವರು ಎಲ್ಲರಲ್ಲೂ ಇದ್ದಾನೆ!",
+            "ಅಲ್ಲಮ ಪ್ರಭು, ಅಕ್ಕಮಹಾದೇವಿ, ಬಸವಣ್ಣ, ಚೆನ್ನಬಸವಣ್ಣ — ಈ ಶರಣರು ಕರ್ನಾಟಕ ಬದಲಿಸಿದರು. ವಚನ ಚಳವಳಿ ಕರ್ನಾಟಕದ ಜಗತ್ತಿಗೆ ಅತ್ಯದ್ಭುತ ಕೊಡುಗೆ!"
+          ],
+          "quiz": [
+            {
+              "q_en": "Where did the Vachana movement start?",
+              "q_kn": "ವಚನ ಚಳವಳಿ ಎಲ್ಲಿ ಆರಂಭವಾಯಿತು?",
+              "options_en": ["Kalyana (Kalaburagi)", "Mysuru", "Hampi", "Bengaluru"],
+              "options_kn": ["ಕಲ್ಯಾಣ (ಕಲಬುರಗಿ)", "ಮೈಸೂರು", "ಹಂಪಿ", "ಬೆಂಗಳೂರು"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "Who led the Sharana movement?",
+              "q_kn": "ಶರಣ ಆಂದೋಲನ ಯಾರು ನೇತೃತ್ವ ವಹಿಸಿದರು?",
+              "options_en": ["Basavanna", "Kanakadasa", "Tipu Sultan", "Kempegowda"],
+              "options_kn": ["ಬಸವಣ್ಣ", "ಕನಕದಾಸ", "ಟಿಪ್ಪು ಸುಲ್ತಾನ್", "ಕೆಂಪೇಗೌಡ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "What did the Sharanas write to share their wisdom?",
+              "q_kn": "ಶರಣರು ಜ್ಞಾನ ಹಂಚಲು ಏನು ಬರೆದರು?",
+              "options_en": ["Vachanas", "Epics", "Novels", "Plays"],
+              "options_kn": ["ವಚನಗಳು", "ಮಹಾಕಾವ್ಯ", "ಕಾದಂಬರಿ", "ನಾಟಕ"],
+              "correct_index": 0
+            }
+          ],
+          "statue": {
+            "name": "Basavanna Statue, Kalyana",
+            "address": "Basavakalyan, Bidar District, Karnataka",
+            "distance": "~700 km from Bengaluru"
+          }
+        }
+      ]
+    },
+    {
+      "id": "vijayapura",
+      "name": "Vijayapura",
+      "name_kn": "ವಿಜಯಪುರ",
+      "theme": "Bijapur Sultanate",
+      "image": "dist_vijayapura",
+      "heroes": [
+        {
+          "id": "ibrahim_rauza",
+          "name": "Ibrahim Adil Shah II",
+          "name_kn": "ಇಬ್ರಾಹಿಂ ಆದಿಲ್ ಷಾ II",
+          "era": "1580–1627",
+          "category": "King",
+          "tagline": "The Musician King of Bijapur",
+          "tagline_kn": "ಬಿಜಾಪುರದ ಸಂಗೀತ ರಾಜ",
+          "image": "hero_ibrahim",
+          "story_pages_en": [
+            "The city of Bijapur (now Vijayapura) was once home to the magnificent Adil Shahi Sultanate. Its greatest king, Ibrahim Adil Shah II, was not only a ruler — he was also a musician, poet, and lover of all arts!",
+            "Ibrahim Adil Shah II built the famous Gol Gumbaz — the second largest dome in the world! The 'Whispering Gallery' inside lets you whisper and be heard across the entire dome. It is an engineering wonder!",
+            "He also built Ibrahim Rauza — his own mausoleum — which is so beautiful that it is said the Taj Mahal was inspired by it! He also wrote books on music and promoted Kannada, Hindi and Marathi arts.",
+            "Ibrahim Adil Shah II shows us that a great king is one who builds beauty, promotes culture, and unites people through art. Vijayapura's magnificent monuments are his eternal gift to Karnataka!"
+          ],
+          "story_pages_kn": [
+            "ಬಿಜಾಪುರ (ಇಂದಿನ ವಿಜಯಪುರ) ಒಂದು ಕಾಲದಲ್ಲಿ ಆದಿಲ್ ಷಾಹಿ ಸಲ್ತನತ್‌ನ ತವರು. ಮಹಾನ್ ರಾಜ ಇಬ್ರಾಹಿಂ ಆದಿಲ್ ಷಾ II — ಆಡಳಿತಗಾರ ಮಾತ್ರ ಅಲ್ಲ, ಸಂಗೀತಗಾರ, ಕವಿ, ಕಲಾಪ್ರೇಮಿ!",
+            "ಪ್ರಸಿದ್ಧ ಗೋಲ್ ಗುಮ್ಬಜ್ ನಿರ್ಮಿಸಿದ — ಜಗತ್ತಿನ ಎರಡನೇ ದೊಡ್ಡ ಗುಮ್ಬಜ್! ಒಳಗಿನ 'ವಿಸ್ಪರಿಂಗ್ ಗ್ಯಾಲರಿ'ಯಲ್ಲಿ ಪಿಸುಮಾತು ಇಡೀ ಗುಮ್ಬಜ್‌ನಲ್ಲಿ ಕೇಳಿಸುತ್ತದೆ. ಇಂಜಿನಿಯರಿಂಗ್ ಅದ್ಭುತ!",
+            "ಇಬ್ರಾಹಿಂ ರೌಝಾ ನಿರ್ಮಿಸಿದ — ತಾಜ್ ಮಹಲ್ ಪ್ರೇರಣೆ ಪಡೆದಿದೆ ಎನ್ನಲಾಗುತ್ತದೆ! ಸಂಗೀತ ಪುಸ್ತಕ ಬರೆದ, ಕನ್ನಡ, ಹಿಂದಿ, ಮರಾಠಿ ಕಲೆ ಉತ್ತೇಜಿಸಿದ.",
+            "ಸೌಂದರ್ಯ ನಿರ್ಮಿಸಿ, ಸಂಸ್ಕೃತಿ ಉಳಿಸಿ, ಕಲೆಯಿಂದ ಜನ ಒಗ್ಗೂಡಿಸುವ ರಾಜ — ಶ್ರೇಷ್ಠ ರಾಜ! ವಿಜಯಪುರದ ಸ್ಮಾರಕಗಳು ಅವನ ಶಾಶ್ವತ ಕೊಡುಗೆ!"
+          ],
+          "quiz": [
+            {
+              "q_en": "What is the famous monument Ibrahim Adil Shah II built?",
+              "q_kn": "ಇಬ್ರಾಹಿಂ ಆದಿಲ್ ಷಾ II ನಿರ್ಮಿಸಿದ ಪ್ರಸಿದ್ಧ ಸ್ಮಾರಕ?",
+              "options_en": ["Gol Gumbaz", "Taj Mahal", "Hampi Temple", "Bidar Fort"],
+              "options_kn": ["ಗೋಲ್ ಗುಮ್ಬಜ್", "ತಾಜ್ ಮಹಲ್", "ಹಂಪಿ ದೇವಾಲಯ", "ಬೀದರ್ ಕೋಟೆ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "What is special about Gol Gumbaz?",
+              "q_kn": "ಗೋಲ್ ಗುಮ್ಬಜ್‌ನ ವಿಶೇಷತೆ ಏನು?",
+              "options_en": ["Second largest dome, Whispering Gallery", "Oldest fort in India", "Tallest minaret", "Largest mosque"],
+              "options_kn": ["ಎರಡನೇ ದೊಡ್ಡ ಗುಮ್ಬಜ್, ವಿಸ್ಪರಿಂಗ್ ಗ್ಯಾಲರಿ", "ಭಾರತದ ಅತ್ಯಂತ ಹಳೆ ಕೋಟೆ", "ಎತ್ತರದ ಮಿನಾರ", "ಅತಿ ದೊಡ್ಡ ಮಸೀದಿ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "Which monument is said to have inspired the Taj Mahal?",
+              "q_kn": "ತಾಜ್ ಮಹಲ್‌ಗೆ ಪ್ರೇರಣೆ ನೀಡಿದ ಸ್ಮಾರಕ ಯಾವುದು?",
+              "options_en": ["Ibrahim Rauza", "Gol Gumbaz", "Bidar Fort", "Hampi Ruins"],
+              "options_kn": ["ಇಬ್ರಾಹಿಂ ರೌಝಾ", "ಗೋಲ್ ಗುಮ್ಬಜ್", "ಬೀದರ್ ಕೋಟೆ", "ಹಂಪಿ ಅವಶೇಷ"],
+              "correct_index": 0
+            }
+          ],
+          "statue": {
+            "name": "Gol Gumbaz",
+            "address": "Vijayapura, Karnataka",
+            "distance": "~530 km from Bengaluru"
+          }
+        }
+      ]
+    },
+    {
+      "id": "uttara_kannada",
+      "name": "Uttara Kannada",
+      "name_kn": "ಉತ್ತರ ಕನ್ನಡ",
+      "theme": "Western Ghats Wonder",
+      "image": "dist_uttarakannada",
+      "heroes": [
+        {
+          "id": "karwar_freedom",
+          "name": "Karwar Freedom Fighters",
+          "name_kn": "ಕಾರವಾರ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರರು",
+          "era": "1920–1947",
+          "category": "Freedom Fighters",
+          "tagline": "The Coastal Freedom Warriors of North Kanara",
+          "tagline_kn": "ಉತ್ತರ ಕನ್ನಡದ ಕರಾವಳಿ ಸ್ವಾತಂತ್ರ್ಯ ಯೋಧರು",
+          "image": "hero_karwar",
+          "story_pages_en": [
+            "The lush green district of Uttara Kannada (North Kanara) on the Konkan coast was a hotbed of India's freedom movement! Ordinary fishermen, farmers, and students became extraordinary freedom fighters!",
+            "Leaders like R.R. Diwakar and many local heroes from Karwar, Sirsi, and Honnavar joined the Non-Cooperation Movement, Salt March, and Quit India Movement, facing imprisonment with courage.",
+            "The Uttara Kannada forests also sheltered many revolutionaries who used the dense Western Ghats jungles to hide from British forces while continuing their fight for freedom.",
+            "This green, beautiful district reminds us that patriotism grows everywhere — in cities and in forests alike. The men and women of Uttara Kannada proved that love for the nation lives in every Indian heart!"
+          ],
+          "story_pages_kn": [
+            "ಕೊಂಕಣ ಕರಾವಳಿಯ ಹಸಿರು ಉತ್ತರ ಕನ್ನಡ ಜಿಲ್ಲೆ ಭಾರತದ ಸ್ವಾತಂತ್ರ್ಯ ಚಳವಳಿಯ ಕೇಂದ್ರ! ಸಾಮಾನ್ಯ ಮೀನುಗಾರ, ರೈತ, ವಿದ್ಯಾರ್ಥಿ — ಅಸಾಧಾರಣ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರರಾದರು!",
+            "ಆರ್.ಆರ್. ದಿವಾಕರ ಮತ್ತು ಸ್ಥಳೀಯ ನಾಯಕರು ಅಸಹಕಾರ ಚಳವಳಿ, ಉಪ್ಪಿನ ಸತ್ಯಾಗ್ರಹ, ಕ್ವಿಟ್ ಇಂಡಿಯಾ ಚಳವಳಿ ಸೇರಿ ಧೈರ್ಯದಿಂದ ಜೈಲು ಹೋದರು.",
+            "ಉತ್ತರ ಕನ್ನಡದ ಕಾಡು ಕ್ರಾಂತಿಕಾರಿಗಳಿಗೆ ಆಶ್ರಯ ನೀಡಿತು. ಬ್ರಿಟಿಷರಿಂದ ತಪ್ಪಿಸಿಕೊಂಡು ಹೋರಾಟ ಮುಂದುವರೆಸಿದರು.",
+            "ದೇಶಭಕ್ತಿ ನಗರ ಮತ್ತು ಕಾಡು ಎರಡರಲ್ಲೂ ಅರಳುತ್ತದೆ. ಉತ್ತರ ಕನ್ನಡ ಜನರು ತೋರಿಸಿದರು — ಪ್ರತಿ ಭಾರತೀಯ ಹೃದಯದಲ್ಲಿ ದೇಶ ಪ್ರೇಮ ವಾಸಿಸುತ್ತದೆ!"
+          ],
+          "quiz": [
+            {
+              "q_en": "Which freedom movement did Uttara Kannada fighters join?",
+              "q_kn": "ಉತ್ತರ ಕನ್ನಡ ಹೋರಾಟಗಾರರು ಯಾವ ಚಳವಳಿ ಸೇರಿದರು?",
+              "options_en": ["Quit India Movement", "Non-Cooperation only", "Civil Disobedience only", "Dandi March only"],
+              "options_kn": ["ಕ್ವಿಟ್ ಇಂಡಿಯಾ ಚಳವಳಿ", "ಅಸಹಕಾರ ಮಾತ್ರ", "ಅಸಹಯೋಗ ಮಾತ್ರ", "ದಂಡಿ ಮಾರ್ಚ್ ಮಾತ್ರ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "What geographical feature of Uttara Kannada helped freedom fighters?",
+              "q_kn": "ಉತ್ತರ ಕನ್ನಡದ ಯಾವ ಭೌಗೋಳಿಕ ಲಕ್ಷಣ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರರಿಗೆ ಸಹಾಯ ಮಾಡಿತು?",
+              "options_en": ["Western Ghats forests", "The rivers", "The coast only", "The mountains"],
+              "options_kn": ["ಪಶ್ಚಿಮ ಘಟ್ಟ ಕಾಡು", "ನದಿಗಳು", "ಕರಾವಳಿ ಮಾತ್ರ", "ಪರ್ವತ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "Uttara Kannada is located on which coast?",
+              "q_kn": "ಉತ್ತರ ಕನ್ನಡ ಯಾವ ಕರಾವಳಿಯಲ್ಲಿದೆ?",
+              "options_en": ["Konkan Coast", "Coromandel Coast", "Malabar Coast", "Kalinga Coast"],
+              "options_kn": ["ಕೊಂಕಣ ಕರಾವಳಿ", "ಕೊರೊಮಂಡಲ್ ಕರಾವಳಿ", "ಮಲಬಾರ್ ಕರಾವಳಿ", "ಕಳಿಂಗ ಕರಾವಳಿ"],
+              "correct_index": 0
+            }
+          ],
+          "statue": {
+            "name": "Freedom Fighters Memorial, Karwar",
+            "address": "Karwar, Uttara Kannada, Karnataka",
+            "distance": "~520 km from Bengaluru"
+          }
+        }
+      ]
+    },
+    {
+      "id": "yadgir",
+      "name": "Yadgir",
+      "name_kn": "ಯಾದಗಿರಿ",
+      "theme": "Spiritual Land",
+      "image": "dist_yadgir",
+      "heroes": [
+        {
+          "id": "sharana_allama",
+          "name": "Allama Prabhu",
+          "name_kn": "ಅಲ್ಲಮ ಪ್ರಭು",
+          "era": "12th Century",
+          "category": "Saint",
+          "tagline": "The Mystic Poet of the Sharana Movement",
+          "tagline_kn": "ಶರಣ ಚಳವಳಿಯ ರಹಸ್ಯ ಕವಿ",
+          "image": "hero_allama",
+          "story_pages_en": [
+            "Among all the Vachana saints of Karnataka, Allama Prabhu stood apart — a mysterious, enlightened mystic whose words are as deep as the ocean and as high as the sky!",
+            "Allama Prabhu was the president of the Anubhava Mantapa — the great hall of philosophical debate. He guided the Sharana movement with wisdom and challenged everyone to think deeper about God, life, and freedom.",
+            "His Vachanas (spiritual poems) speak of transcending the physical world and finding God within oneself. Even great scholars found his words puzzling — and that was his way of making people think!",
+            "Allama Prabhu is Karnataka's greatest mystic poet. His vachanas are studied in universities worldwide. He shows us that the search for truth is the greatest adventure of all!"
+          ],
+          "story_pages_kn": [
+            "ಕರ್ನಾಟಕದ ಎಲ್ಲ ವಚನ ಸಂತರಲ್ಲಿ ಅಲ್ಲಮ ಪ್ರಭು ವಿಶಿಷ್ಟ — ರಹಸ್ಯ, ಜ್ಞಾನೋದಯ ಮೇಧಾವಿ. ಅವನ ಮಾತು ಸಾಗರದಷ್ಟು ಆಳ, ಆಕಾಶದಷ್ಟು ಎತ್ತರ!",
+            "ಅನುಭವ ಮಂಟಪದ ಅಧ್ಯಕ್ಷ — ತಾತ್ವಿಕ ಚರ್ಚೆಯ ಮಹಾ ಸಭೆ. ಜ್ಞಾನದಿಂದ ಶರಣ ಚಳವಳಿ ನಿರ್ದೇಶಿಸಿದ. ದೇವರು, ಜೀವನ, ಸ್ವಾತಂತ್ರ್ಯ — ಆಳವಾಗಿ ಯೋಚಿಸಲು ಪ್ರೇರಿಸಿದ.",
+            "ಭೌತಿಕ ಜಗತ್ತು ಮೀರಿ ಆತ್ಮದಲ್ಲಿ ದೇವರನ್ನು ಕಂಡುಕೊಳ್ಳಲು ವಚನ ಬರೆದ. ದೊಡ್ಡ ವಿದ್ವಾಂಸರೂ ಅವನ ಮಾತು ಅರ್ಥ ಮಾಡಿಕೊಳ್ಳಲು ಕಷ್ಟ ಪಟ್ಟರು — ಅದೇ ಅವನ ರೀತಿ!",
+            "ಅಲ್ಲಮ ಪ್ರಭು ಕರ್ನಾಟಕದ ಶ್ರೇಷ್ಠ ರಹಸ್ಯ ಕವಿ. ಅವನ ವಚನಗಳು ಜಗತ್ತಿನ ವಿಶ್ವವಿದ್ಯಾಲಯಗಳಲ್ಲಿ ಅಭ್ಯಾಸ ಮಾಡಲ್ಪಡುತ್ತವೆ. ಸತ್ಯ ಅನ್ವೇಷಣೆ ಶ್ರೇಷ್ಠ ಸಾಹಸ!"
+          ],
+          "quiz": [
+            {
+              "q_en": "What role did Allama Prabhu play in the Anubhava Mantapa?",
+              "q_kn": "ಅನುಭವ ಮಂಟಪದಲ್ಲಿ ಅಲ್ಲಮ ಪ್ರಭು ಯಾವ ಪಾತ್ರ ವಹಿಸಿದ?",
+              "options_en": ["President", "Member", "Secretary", "Visitor"],
+              "options_kn": ["ಅಧ್ಯಕ್ಷ", "ಸದಸ್ಯ", "ಕಾರ್ಯದರ್ಶಿ", "ಸಂದರ್ಶಕ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "What are Allama Prabhu's spiritual poems called?",
+              "q_kn": "ಅಲ್ಲಮ ಪ್ರಭು ಆಧ್ಯಾತ್ಮಿಕ ಕವಿತೆಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+              "options_en": ["Vachanas", "Shlokas", "Dohas", "Bhajans"],
+              "options_kn": ["ವಚನಗಳು", "ಶ್ಲೋಕಗಳು", "ದೋಹಾ", "ಭಜನೆ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "Allama Prabhu is known as Karnataka's greatest what?",
+              "q_kn": "ಅಲ್ಲಮ ಪ್ರಭು ಕರ್ನಾಟಕದ ಶ್ರೇಷ್ಠ ಎಂದು ಗುರುತಿಸಲ್ಪಟ್ಟಿದ್ದಾರೆ?",
+              "options_en": ["Mystic Poet", "Warrior King", "Engineer", "Freedom Fighter"],
+              "options_kn": ["ರಹಸ್ಯ ಕವಿ", "ಯೋಧ ರಾಜ", "ಇಂಜಿನಿಯರ್", "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ"],
+              "correct_index": 0
+            }
+          ],
+          "statue": {
+            "name": "Allama Prabhu Statue",
+            "address": "Basavanna Circle, Bengaluru",
+            "distance": "~5 km from City Center"
+          }
+        }
+      ]
+    },
+    {
+      "id": "chamarajanagar",
+      "name": "Chamarajanagar",
+      "name_kn": "ಚಾಮರಾಜನಗರ",
+      "theme": "Wildlife Sanctuary",
+      "image": "dist_chamarajanagara",
+      "heroes": [
+        {
+          "id": "kempe_gowda_chamaraja",
+          "name": "Chamaraja Wadiyar",
+          "name_kn": "ಚಾಮರಾಜ ಒಡೆಯರ್",
+          "era": "1863–1894",
+          "category": "King",
+          "tagline": "The Progressive King Who Transformed Mysuru",
+          "tagline_kn": "ಮೈಸೂರು ರೂಪಾಂತರಿಸಿದ ಪ್ರಗತಿಪರ ರಾಜ",
+          "image": "hero_chamaraja",
+          "story_pages_en": [
+            "Chamaraja Wadiyar was one of the most progressive rulers of the Mysore Kingdom. Though he ruled for only about a decade, he transformed Mysuru into a modern state years before independence!",
+            "He invited the brilliant M. Visvesvaraya to serve Mysore, established many schools and colleges, and promoted science and technology. He was a king who cared deeply about education for all!",
+            "Under his reign, Mysore got its first modern hospital, its first electricity supply, and many public works. He even formed a Representative Assembly — an early form of democracy in Mysuru!",
+            "He passed away young at just 30, but his short reign left a lasting impact. The Mysuru of today — with its culture, electricity, and institutions — owes much to Chamaraja Wadiyar's vision!"
+          ],
+          "story_pages_kn": [
+            "ಚಾಮರಾಜ ಒಡೆಯರ್ ಮೈಸೂರು ರಾಜ್ಯದ ಅತ್ಯಂತ ಪ್ರಗತಿಪರ ಆಡಳಿತಗಾರ. ಕೇವಲ ಒಂದು ದಶಕ ಆಳಿದ, ಆದರೆ ಮೈಸೂರನ್ನು ಆಧುನಿಕ ರಾಜ್ಯವಾಗಿ ಪರಿವರ್ತಿಸಿದ!",
+            "ಮೇಧಾವಿ MV ವಿಶ್ವೇಶ್ವರಯ್ಯರನ್ನು ಮೈಸೂರಿಗೆ ಕರೆದ, ಶಾಲೆ-ಕಾಲೇಜು ಸ್ಥಾಪಿಸಿದ, ವಿಜ್ಞಾನ-ತಂತ್ರಜ್ಞಾನ ಉತ್ತೇಜಿಸಿದ. ಎಲ್ಲರ ಶಿಕ್ಷಣ ಕಾಳಜಿ ವಹಿಸಿದ ರಾಜ!",
+            "ಅವನ ಆಳ್ವಿಕೆಯಲ್ಲಿ ಮೈಸೂರಿಗೆ ಮೊದಲ ಆಧುನಿಕ ಆಸ್ಪತ್ರೆ, ಮೊದಲ ವಿದ್ಯುತ್, ಅನೇಕ ಸಾರ್ವಜನಿಕ ಕಾಮಗಾರಿ. ಪ್ರಾತಿನಿಧ ಸಭೆ ಸ್ಥಾಪಿಸಿದ — ಮೈಸೂರಿನಲ್ಲಿ ಪ್ರಜಾತಂತ್ರದ ಮೊದಲ ರೂಪ!",
+            "ಕೇವಲ 30 ವರ್ಷದಲ್ಲಿ ನಿಧನ. ಆದರೆ ಸಣ್ಣ ಆಳ್ವಿಕೆ ಶಾಶ್ವತ ಪ್ರಭಾವ ಬೀರಿತು. ಇಂದಿನ ಮೈಸೂರಿನ ಸಂಸ್ಕೃತಿ, ವಿದ್ಯುತ್, ಸಂಸ್ಥೆಗಳು ಚಾಮರಾಜ ಒಡೆಯರ್ ದೂರದೃಷ್ಟಿಗೆ ಋಣಿ!"
+          ],
+          "quiz": [
+            {
+              "q_en": "Which great engineer did Chamaraja Wadiyar invite to Mysore?",
+              "q_kn": "ಚಾಮರಾಜ ಒಡೆಯರ್ ಯಾವ ಮಹಾನ್ ಇಂಜಿನಿಯರನ್ನು ಮೈಸೂರಿಗೆ ಕರೆದರು?",
+              "options_en": ["M. Visvesvaraya", "Tipu Sultan", "Basavanna", "Kempegowda"],
+              "options_kn": ["ಎಂ. ವಿಶ್ವೇಶ್ವರಯ್ಯ", "ಟಿಪ್ಪು ಸುಲ್ತಾನ್", "ಬಸವಣ್ಣ", "ಕೆಂಪೇಗೌಡ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "What age did Chamaraja Wadiyar pass away at?",
+              "q_kn": "ಚಾಮರಾಜ ಒಡೆಯರ್ ಎಷ್ಟು ವಯಸ್ಸಿನಲ್ಲಿ ನಿಧನ ಹೊಂದಿದರು?",
+              "options_en": ["30", "50", "40", "60"],
+              "options_kn": ["30", "50", "40", "60"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "What early form of democracy did he establish in Mysore?",
+              "q_kn": "ಅವರು ಮೈಸೂರಿನಲ್ಲಿ ಯಾವ ಪ್ರಜಾತಂತ್ರ ರೂಪ ಸ್ಥಾಪಿಸಿದರು?",
+              "options_en": ["Representative Assembly", "Parliament", "Lok Sabha", "Gram Panchayat"],
+              "options_kn": ["ಪ್ರಾತಿನಿಧ ಸಭೆ", "ಸಂಸತ್ತು", "ಲೋಕಸಭೆ", "ಗ್ರಾಮ ಪಂಚಾಯತ್"],
+              "correct_index": 0
+            }
+          ],
+          "statue": {
+            "name": "Chamaraja Wadiyar Statue",
+            "address": "Mysuru, Karnataka",
+            "distance": "~150 km from Bengaluru"
+          }
+        }
+      ]
+    },
+    {
+      "id": "chikkamagaluru",
+      "name": "Chikkamagaluru",
+      "name_kn": "ಚಿಕ್ಕಮಗಳೂರು",
+      "theme": "Coffee Land",
+      "image": "dist_chikkamagaluru",
+      "heroes": [
+        {
+          "id": "bababudan",
+          "name": "Baba Budan",
+          "name_kn": "ಬಾಬಾ ಬುಡಾನ್",
+          "era": "17th Century",
+          "category": "Explorer",
+          "tagline": "The Saint Who Brought Coffee to India",
+          "tagline_kn": "ಭಾರತಕ್ಕೆ ಕಾಫಿ ತಂದ ಸಂತ",
+          "image": "hero_bababudan",
+          "story_pages_en": [
+            "Today, India produces millions of tons of coffee enjoyed around the world. But did you know that coffee came to India because of one brave saint from Chikkamagaluru — Baba Budan?",
+            "In the 17th century, Baba Budan went on a pilgrimage to Mecca. There he discovered the beautiful coffee bean. At that time, Arabia strictly prohibited taking coffee beans out of the country!",
+            "But Baba Budan carefully smuggled seven coffee beans, tied to his chest — a clever and brave act! He brought them back and planted them on the hills of Chikkamagaluru — which are now called Baba Budan Giri (Baba Budan Hills)!",
+            "Today, those same hills produce some of the finest coffee in the world! Every morning, when someone enjoys a cup of coffee, they owe a little thank you to Baba Budan — the saint who dared to bring coffee to India!"
+          ],
+          "story_pages_kn": [
+            "ಭಾರತ ಇಂದು ಜಗತ್ತಿಗೆ ಕೋಟ್ಯಂತರ ಟನ್ ಕಾಫಿ ನೀಡುತ್ತದೆ. ಆದರೆ ಕಾಫಿ ಭಾರತಕ್ಕೆ ತಂದದ್ದು ಚಿಕ್ಕಮಗಳೂರಿನ ಧೀರ ಸಂತ ಬಾಬಾ ಬುಡಾನ್ ಎಂದು ಗೊತ್ತಾ?",
+            "17ನೇ ಶತಮಾನದಲ್ಲಿ ಬಾಬಾ ಬುಡಾನ್ ಮೆಕ್ಕಾ ಯಾತ್ರೆ ಹೋದ. ಅಲ್ಲಿ ಕಾಫಿ ಬೀಜ ಕಂಡ. ಅರೇಬಿಯಾ ಕಾಫಿ ಬೀಜ ಹೊರ ತರಲು ಕಟ್ಟುನಿಟ್ಟಾಗಿ ನಿಷೇಧ ಮಾಡಿತ್ತು!",
+            "ಆದರೆ ಬಾಬಾ ಬುಡಾನ್ ಏಳು ಕಾಫಿ ಬೀಜ ಎದೆಗೆ ಕಟ್ಟಿಕೊಂಡು ತಂದ! ಚಿಕ್ಕಮಗಳೂರಿನ ಗುಡ್ಡಗಳಲ್ಲಿ ನೆಟ್ಟ — ಇಂದು ಅವು 'ಬಾಬಾ ಬುಡಾನ್ ಗಿರಿ'!",
+            "ಆ ಗುಡ್ಡಗಳಲ್ಲಿ ಇಂದಿಗೂ ಜಗತ್ತಿನ ಶ್ರೇಷ್ಠ ಕಾಫಿ ಬೆಳೆಯುತ್ತದೆ! ಪ್ರತಿ ಕಾಫಿ ಕಪ್‌ಗೆ ಬಾಬಾ ಬುಡಾನ್‌ಗೆ ಧನ್ಯವಾದ ಹೇಳಬೇಕು!"
+          ],
+          "quiz": [
+            {
+              "q_en": "Who brought coffee to India?",
+              "q_kn": "ಭಾರತಕ್ಕೆ ಕಾಫಿ ಯಾರು ತಂದರು?",
+              "options_en": ["Baba Budan", "Tipu Sultan", "Hyder Ali", "A British merchant"],
+              "options_kn": ["ಬಾಬಾ ಬುಡಾನ್", "ಟಿಪ್ಪು ಸುಲ್ತಾನ್", "ಹೈದರ್ ಅಲಿ", "ಬ್ರಿಟಿಷ್ ವ್ಯಾಪಾರಿ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "How many coffee beans did Baba Budan smuggle?",
+              "q_kn": "ಬಾಬಾ ಬುಡಾನ್ ಎಷ್ಟು ಕಾಫಿ ಬೀಜ ತಂದರು?",
+              "options_en": ["Seven", "Three", "Ten", "One hundred"],
+              "options_kn": ["ಏಳು", "ಮೂರು", "ಹತ್ತು", "ನೂರು"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "What are the hills where he planted coffee called?",
+              "q_kn": "ಅವರು ಕಾಫಿ ನೆಟ್ಟ ಗುಡ್ಡಗಳ ಹೆಸರೇನು?",
+              "options_en": ["Baba Budan Giri", "Nandi Hills", "Brahmagiri", "Kodachadri"],
+              "options_kn": ["ಬಾಬಾ ಬುಡಾನ್ ಗಿರಿ", "ನಂದಿ ಬೆಟ್ಟ", "ಬ್ರಹ್ಮಗಿರಿ", "ಕೊಡಚಾದ್ರಿ"],
+              "correct_index": 0
+            }
+          ],
+          "statue": {
+            "name": "Baba Budan Dargah",
+            "address": "Baba Budan Giri, Chikkamagaluru, Karnataka",
+            "distance": "~250 km from Bengaluru"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bengaluru_rural",
+      "name": "Bengaluru Rural",
+      "name_kn": "ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರ",
+      "theme": "Silk Route Legacy",
+      "image": "dist_bengalururural",
+      "heroes": [
+        {
+          "id": "dodda_veerappagowda",
+          "name": "Dodda Veerappagowda",
+          "name_kn": "ದೊಡ್ಡ ವೀರಪ್ಪಗೌಡ",
+          "era": "18th Century",
+          "category": "Warrior",
+          "tagline": "The Local Chieftain Who Resisted Hyder Ali",
+          "tagline_kn": "ಹೈದರ್ ಅಲಿ ವಿರುದ್ಧ ನಿಂತ ಸ್ಥಳೀಯ ಮುಖ್ಯಸ್ಥ",
+          "image": "hero_veerappagowda",
+          "story_pages_en": [
+            "In the villages of Bengaluru Rural district, the stories of brave local chieftains who resisted powerful armies are still told by grandmothers to their grandchildren on moonlit nights.",
+            "Dodda Veerappagowda was one such brave local chief who stood up against the mighty Hyder Ali when he tried to expand his control over the Kanarese chieftains. He refused to submit!",
+            "The resistance of local chiefs like Veerappagowda shows us that the fight for freedom was not just fought by kings and queens — it was fought by ordinary village leaders who loved their land.",
+            "Every village in Karnataka has its local hero — someone who stood tall when the powerful came knocking. Bengaluru Rural reminds us that the roots of courage grow deep in Karnataka's soil!"
+          ],
+          "story_pages_kn": [
+            "ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರ ಜಿಲ್ಲೆಯ ಹಳ್ಳಿಗಳಲ್ಲಿ ಧೀರ ಸ್ಥಳೀಯ ಮುಖ್ಯಸ್ಥರ ಕಥೆ ಚಂದ್ರನ ರಾತ್ರಿ ಅಜ್ಜಿ ಮೊಮ್ಮಕ್ಕಳಿಗೆ ಹೇಳುತ್ತಾರೆ.",
+            "ದೊಡ್ಡ ವೀರಪ್ಪಗೌಡ — ಶಕ್ತಿಶಾಲಿ ಹೈದರ್ ಅಲಿ ಕನ್ನಡ ಸ್ಥಳೀಯ ಮುಖ್ಯಸ್ಥರ ಮೇಲೆ ಅಧಿಕಾರ ಹೇರಲು ಬಂದಾಗ ನಿಂತ ಧೀರ. ಶರಣಾಗಲಿಲ್ಲ!",
+            "ವೀರಪ್ಪಗೌಡರಂಥ ಸ್ಥಳೀಯ ಮುಖ್ಯಸ್ಥರ ಪ್ರತಿರೋಧ ತೋರಿಸುತ್ತದೆ — ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟ ರಾಜ-ರಾಣಿಯರ ಮಾತ್ರ ಅಲ್ಲ. ತಮ್ಮ ನೆಲ ಪ್ರೀತಿಸಿದ ಸಾಮಾನ್ಯ ಗ್ರಾಮ ನಾಯಕರದ್ದೂ.",
+            "ಕರ್ನಾಟಕದ ಪ್ರತಿ ಹಳ್ಳಿಯಲ್ಲಿ ಸ್ಥಳೀಯ ವೀರ ಇದ್ದಾನೆ. ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರ ಜ್ಞಾಪಿಸಿಕೊಡುತ್ತದೆ — ಕರ್ನಾಟಕದ ಮಣ್ಣಿನಲ್ಲಿ ಧೈರ್ಯದ ಬೇರು ಆಳವಾಗಿ ಬೆಳೆದಿದೆ!"
+          ],
+          "quiz": [
+            {
+              "q_en": "Dodda Veerappagowda resisted which ruler?",
+              "q_kn": "ದೊಡ್ಡ ವೀರಪ್ಪಗೌಡ ಯಾವ ಆಡಳಿತಗಾರ ವಿರುದ್ಧ ನಿಂತರು?",
+              "options_en": ["Hyder Ali", "British", "Portuguese", "Marathas"],
+              "options_kn": ["ಹೈದರ್ ಅಲಿ", "ಬ್ರಿಟಿಷರು", "ಪೋರ್ಚುಗೀಸರು", "ಮರಾಠರು"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "What does the story of local heroes teach us?",
+              "q_kn": "ಸ್ಥಳೀಯ ವೀರರ ಕಥೆ ನಮಗೆ ಏನು ಕಲಿಸುತ್ತದೆ?",
+              "options_en": ["Freedom was fought by ordinary people too", "Only kings fought", "British were always wrong", "Villages were always free"],
+              "options_kn": ["ಸ್ವಾತಂತ್ರ್ಯ ಸಾಮಾನ್ಯ ಜನರೂ ಹೋರಾಡಿದರು", "ರಾಜರು ಮಾತ್ರ ಹೋರಾಡಿದರು", "ಬ್ರಿಟಿಷರು ತಪ್ಪಾದ ರಾಜರು", "ಹಳ್ಳಿಗಳು ಸ್ವತಂತ್ರ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "Bengaluru Rural district is known for which traditional craft?",
+              "q_kn": "ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರ ಯಾವ ಸಾಂಪ್ರದಾಯಿಕ ಕಲೆಗೆ ಹೆಸರಾಗಿದೆ?",
+              "options_en": ["Silk weaving", "Stone carving", "Wood work", "Pottery"],
+              "options_kn": ["ರೇಷ್ಮೆ ನೇಯ್ಗೆ", "ಕಲ್ಲಿನ ಕೆತ್ತನೆ", "ಮರ ಕೆಲಸ", "ಕುಂಬಾರಿಕೆ"],
+              "correct_index": 0
+            }
+          ],
+          "statue": {
+            "name": "Local Heritage Site",
+            "address": "Doddaballapur, Bengaluru Rural, Karnataka",
+            "distance": "~40 km from Bengaluru"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ramanagara",
+      "name": "Ramanagara",
+      "name_kn": "ರಾಮನಗರ",
+      "theme": "Silk City",
+      "image": "dist_ramanagara",
+      "heroes": [
+        {
+          "id": "madakari_nayaka",
+          "name": "Madakari Nayaka",
+          "name_kn": "ಮದಕರಿ ನಾಯಕ",
+          "era": "1758–1779",
+          "category": "Warrior",
+          "tagline": "The Last Brave King of Chitradurga",
+          "tagline_kn": "ಚಿತ್ರದುರ್ಗದ ಕೊನೆಯ ಧೀರ ರಾಜ",
+          "image": "hero_madakari",
+          "story_pages_en": [
+            "In the rocky hills of Chitradurga (related to nearby Ramanagara region) ruled a brave king named Madakari Nayaka V — the last great king of the Nayaka dynasty of Chitradurga!",
+            "When Hyder Ali's forces came to capture Chitradurga, Madakari Nayaka refused to give up his fort without a fight. He and his warriors defended the rocky Chitradurga Fort with extraordinary bravery!",
+            "The fort fell only because of treachery from within. But Madakari Nayaka's courageous stand is remembered as one of the bravest last stands in Karnataka history!",
+            "His story, along with that of Onake Obavva who also defended the same fort, teaches us that courage runs through the veins of all — kings and ordinary people alike. Chitradurga Fort is a monument to this undying bravery!"
+          ],
+          "story_pages_kn": [
+            "ಚಿತ್ರದುರ್ಗದ ಬಂಡೆ ಗುಡ್ಡಗಳಲ್ಲಿ ಧೀರ ರಾಜ ಮದಕರಿ ನಾಯಕ V ಆಳಿದ — ಚಿತ್ರದುರ್ಗ ನಾಯಕ ವಂಶದ ಕೊನೆಯ ಮಹಾನ್ ರಾಜ!",
+            "ಹೈದರ್ ಅಲಿ ಸೇನೆ ಚಿತ್ರದುರ್ಗ ವಶಪಡಿಸಲು ಬಂದಾಗ ಮದಕರಿ ನಾಯಕ ಯುದ್ಧ ಮಾಡದೆ ಕೋಟೆ ಬಿಟ್ಟುಕೊಡಲು ನಿರಾಕರಿಸಿದ. ಅಸಾಧಾರಣ ಧೈರ್ಯದಿಂದ ರಕ್ಷಿಸಿದ!",
+            "ಒಳಗಿನ ದ್ರೋಹದಿಂದ ಮಾತ್ರ ಕೋಟೆ ಬಿದ್ದಿತು. ಆದರೆ ಮದಕರಿ ನಾಯಕನ ಧೀರ ಹೋರಾಟ ಕರ್ನಾಟಕ ಇತಿಹಾಸದ ಅತ್ಯಂತ ಧೀರ ಅಂತಿಮ ಪ್ರತಿರೋಧಗಳಲ್ಲೊಂದು!",
+            "ಒನಕೆ ಒಬ್ಬವ್ವ ಮತ್ತು ಮದಕರಿ ನಾಯಕ — ಇಬ್ಬರ ಕಥೆ ತೋರಿಸುತ್ತದೆ — ರಾಜ ಅಥವಾ ಸಾಮಾನ್ಯ ಜನ ಎಲ್ಲರ ನರದಲ್ಲೂ ಧೈರ್ಯ ಹರಿಯುತ್ತದೆ!"
+          ],
+          "quiz": [
+            {
+              "q_en": "Madakari Nayaka was the last king of which dynasty?",
+              "q_kn": "ಮದಕರಿ ನಾಯಕ ಯಾವ ವಂಶದ ಕೊನೆಯ ರಾಜ?",
+              "options_en": ["Nayaka dynasty of Chitradurga", "Hoysala", "Kadamba", "Vijayanagara"],
+              "options_kn": ["ಚಿತ್ರದುರ್ಗ ನಾಯಕ ವಂಶ", "ಹೊಯ್ಸಳ", "ಕದಂಬ", "ವಿಜಯನಗರ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "Why did Chitradurga Fort fall despite Madakari's bravery?",
+              "q_kn": "ಮದಕರಿ ಧೈರ್ಯ ಇದ್ದರೂ ಚಿತ್ರದುರ್ಗ ಕೋಟೆ ಏಕೆ ಬಿದ್ದಿತು?",
+              "options_en": ["Treachery from within", "British attack", "Earthquake", "Flood"],
+              "options_kn": ["ಒಳಗಿನ ದ್ರೋಹ", "ಬ್ರಿಟಿಷ್ ದಾಳಿ", "ಭೂಕಂಪ", "ಪ್ರವಾಹ"],
+              "correct_index": 0
+            },
+            {
+              "q_en": "Which female hero also defended Chitradurga Fort?",
+              "q_kn": "ಚಿತ್ರದುರ್ಗ ಕೋಟೆ ರಕ್ಷಿಸಿದ ಮಹಿಳಾ ವೀರ ಯಾರು?",
+              "options_en": ["Onake Obavva", "Kittur Chennamma", "Abbakka Rani", "Keladi Chennamma"],
+              "options_kn": ["ಒನಕೆ ಒಬ್ಬವ್ವ", "ಕಿತ್ತೂರು ಚೆನ್ನಮ್ಮ", "ಅಬ್ಬಕ್ಕ ರಾಣಿ", "ಕೆಳದಿ ಚೆನ್ನಮ್ಮ"],
+              "correct_index": 0
+            }
+          ],
+          "statue": {
+            "name": "Madakari Nayaka Statue",
+            "address": "Chitradurga Fort, Chitradurga, Karnataka",
+            "distance": "~200 km from Bengaluru"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.NammaKathey" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/royal_blue</item>
+        <item name="colorPrimaryVariant">@color/royal_blue</item>
+        <item name="colorOnPrimary">@color/ivory</item>
+        <item name="colorSecondary">@color/saffron</item>
+        <item name="colorOnSecondary">@color/ivory</item>
+        <item name="android:windowBackground">@color/ivory</item>
+        <item name="android:statusBarColor">@color/royal_blue</item>
+        <item name="android:navigationBarColor">@color/royal_blue</item>
+    </style>
+
+    <style name="Theme.NammaKathey.Splash" parent="Theme.NammaKathey">
+        <item name="android:windowBackground">@color/royal_blue</item>
+        <item name="android:statusBarColor">@color/royal_blue</item>
+    </style>
+</resources>

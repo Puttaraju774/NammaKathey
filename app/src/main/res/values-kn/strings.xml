@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ನಮ್ಮ ಕಥೆ</string>
+    <string name="app_name_kn">ನಮ್ಮ ಕಥೆ</string>
+    <string name="explore_heroes">ವೀರರನ್ನು ಅನ್ವೇಷಿಸಿ</string>
+    <string name="pick_journey">ನಿಮ್ಮ ಯಾತ್ರೆ ಆಯ್ಕೆ ಮಾಡಿ!</string>
+    <string name="bravehearts">ಕರ್ನಾಟಕದ ಧೀರರು</string>
+    <string name="take_quiz">ರಸಪ್ರಶ್ನೆ</string>
+    <string name="your_badges">ಬ್ಯಾಡ್ಜ್‌ಗಳು</string>
+    <string name="badge_earned">ಬ್ಯಾಡ್ಜ್ ಗೆದ್ದಿರಿ!</string>
+    <string name="try_again">ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ</string>
+    <string name="go_home">ನಕ್ಷೆಗೆ ಹಿಂತಿರುಗಿ</string>
+    <string name="next_question">ಮುಂದಿನ ಪ್ರಶ್ನೆ</string>
+    <string name="chapter">ಅಧ್ಯಾಯ</string>
+    <string name="heroes">ವೀರರು</string>
+    <string name="district">ಜಿಲ್ಲೆ</string>
+    <string name="statue_finder">ಸ್ಮಾರಕ ಹುಡುಕಾಟ</string>
+    <string name="open_maps">ನಕ್ಷೆಯಲ್ಲಿ ತೆರೆಯಿರಿ</string>
+    <string name="no_badges">ಇನ್ನೂ ಯಾವ ಬ್ಯಾಡ್ಜ್ ಇಲ್ಲ! ಕ್ವಿಜ್ ಆಡಿ ಗೆಲ್ಲಿ.</string>
+    <string name="play_again">ಮತ್ತೆ ಆಡಿ</string>
+</resources>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/ivory">
+
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:orientation="vertical" android:gravity="center"
+        android:padding="24dp">
+
+        <!-- Stars -->
+        <FrameLayout android:id="@+id/starsContainer"
+            android:layout_width="match_parent" android:layout_height="60dp"
+            android:visibility="gone">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:layout_gravity="center" android:text="⭐ ⭐ ⭐"
+                android:textSize="32sp"/>
+        </FrameLayout>
+
+        <!-- Badge earned layout -->
+        <LinearLayout android:id="@+id/badgeLayout"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:orientation="vertical" android:gravity="center"
+            android:visibility="visible">
+
+            <TextView android:id="@+id/badgeIcon"
+                android:layout_width="120dp" android:layout_height="120dp"
+                android:background="@drawable/circle_gold"
+                android:gravity="center"
+                android:text="🏅"
+                android:textSize="52sp"/>
+
+        </LinearLayout>
+
+        <!-- Result Title -->
+        <TextView android:id="@+id/tvResultTitle"
+            android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="Maha-Sadhakal!"
+            android:textColor="@color/royal_blue"
+            android:textSize="26sp" android:textStyle="bold"
+            android:gravity="center"
+            android:layout_marginTop="20dp"/>
+
+        <!-- Hero name -->
+        <TextView android:id="@+id/tvHeroName"
+            android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="Hero"
+            android:textColor="@color/saffron"
+            android:textSize="16sp"
+            android:layout_marginTop="6dp"/>
+
+        <!-- Result message -->
+        <TextView android:id="@+id/tvResultMessage"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:text="Result message"
+            android:textColor="@color/text_secondary"
+            android:textSize="14sp"
+            android:gravity="center"
+            android:lineSpacingMultiplier="1.4"
+            android:layout_marginTop="12dp"/>
+
+        <!-- Score Card -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            app:cardCornerRadius="18dp" app:cardElevation="6dp"
+            app:cardBackgroundColor="@color/royal_blue">
+
+            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:orientation="horizontal" android:padding="20dp">
+
+                <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
+                    android:layout_weight="1" android:orientation="vertical" android:gravity="center">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:text="⏱" android:textSize="24sp"/>
+                    <TextView android:id="@+id/tvTimeTaken"
+                        android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:text="5:24" android:textColor="@color/ivory"
+                        android:textSize="18sp" android:textStyle="bold"/>
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:text="TIME TAKEN" android:textColor="#AAAACC" android:textSize="10sp"/>
+                </LinearLayout>
+
+                <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
+                    android:layout_weight="1" android:orientation="vertical" android:gravity="center">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:text="🏆" android:textSize="24sp"/>
+                    <TextView android:id="@+id/tvScore"
+                        android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:text="3 / 3" android:textColor="@color/saffron"
+                        android:textSize="18sp" android:textStyle="bold"/>
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:text="SCORE" android:textColor="#AAAACC" android:textSize="10sp"/>
+                </LinearLayout>
+
+                <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
+                    android:layout_weight="1" android:orientation="vertical" android:gravity="center">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:text="⚡" android:textSize="24sp"/>
+                    <TextView android:id="@+id/tvExperience"
+                        android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:text="850 XP" android:textColor="@color/saffron"
+                        android:textSize="18sp" android:textStyle="bold"/>
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:text="EXPERIENCE" android:textColor="#AAAACC" android:textSize="10sp"/>
+                </LinearLayout>
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!-- Action Buttons -->
+        <Button android:id="@+id/btnPlayAgain"
+            android:layout_width="match_parent" android:layout_height="52dp"
+            android:text="▶ Play Again"
+            android:textSize="16sp" android:textStyle="bold"
+            android:backgroundTint="@color/saffron"
+            android:textColor="@color/royal_blue"
+            android:layout_marginTop="24dp"
+            app:cornerRadius="16dp"/>
+
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:orientation="horizontal" android:layout_marginTop="12dp">
+
+            <Button android:id="@+id/btnBackToMap"
+                android:layout_width="0dp" android:layout_height="48dp"
+                android:layout_weight="1" android:layout_marginEnd="8dp"
+                android:text="Back to Map →"
+                android:textSize="13sp"
+                android:backgroundTint="@color/saffron_light"
+                android:textColor="@color/royal_blue"
+                app:cornerRadius="14dp"/>
+
+            <Button android:id="@+id/btnViewBadges"
+                android:layout_width="0dp" android:layout_height="48dp"
+                android:layout_weight="1" android:layout_marginStart="8dp"
+                android:text="View Badges 🏅"
+                android:textSize="13sp"
+                android:backgroundTint="@color/royal_blue"
+                android:textColor="@color/ivory"
+                app:cornerRadius="14dp"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

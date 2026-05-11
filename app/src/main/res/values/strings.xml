@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Namma-Kathey</string>
+    <string name="app_name_kn">ನಮ್ಮ ಕಥೆ</string>
+    <string name="explore_heroes">Explore Heroes</string>
+    <string name="pick_journey">Pick Your Journey!</string>
+    <string name="bravehearts">Karnataka\'s Bravehearts</string>
+    <string name="take_quiz">Take Quiz</string>
+    <string name="your_badges">Rewards &amp; Badges</string>
+    <string name="badge_earned">Badge Earned!</string>
+    <string name="try_again">Try Again</string>
+    <string name="go_home">Back to Map</string>
+    <string name="next_question">Next Question</string>
+    <string name="chapter">Chapter</string>
+    <string name="heroes">Heroes</string>
+    <string name="district">District</string>
+    <string name="statue_finder">Statue Finder</string>
+    <string name="open_maps">Open in Maps</string>
+    <string name="no_badges">No badges yet! Complete quizzes to earn them.</string>
+    <string name="play_again">Play Again</string>
+</resources>
